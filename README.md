@@ -1,33 +1,44 @@
-<h1 align="center">Hi 👋, I'm Nandhakumar M</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Founder & CEO of Prema AI Labs | Google Student Ambassador | AI & Full Stack Developer
-</h3>
+  <!-- 🌊 1. Dynamic Waving Gradient Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:9333EA&height=220&section=header&text=Nandhakumar%20M&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Founder%20%26%20CEO%20@%20Prema%20AI%20Labs%20%7C%20Google%20Student%20Ambassador&descSize=20&descAlign=50&descAlignY=70" width="100%" alt="Header Banner" />
 
-<p align="center">
-  <b>Building AI-Powered Digital Infrastructure for Education, Productivity & Social Good</b>
-</p>
+  <br/>
 
-<!-- Social Badges Header -->
-<p align="center">
-  <a href="https://premaailabs.tech/"><img src="https://img.shields.io/badge/Official_Website-premaailabs.tech-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:smnk2006@gmail.com"><img src="https://img.shields.io/badge/Personal_Email-smnk2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:24ucy129nandha@kgkite.ac.in"><img src="https://img.shields.io/badge/College_Email-24ucy129nandha%40kgkite.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nandhakumar-murugan-807a80286/"><img src="https://img.shields.io/badge/LinkedIn-Nandhakumar_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://me.developers.google.com/u/117885705982936180625"><img src="https://img.shields.io/badge/Google_Developers-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
-  <a href="https://x.com/Nandhakuma54212"><img src="https://img.shields.io/badge/X-@Nandhakuma54212-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://medium.com/@nandhakumarmurugan"><img src="https://img.shields.io/badge/Medium-@nandhakumarmurugan-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://www.instagram.com/itz_me__smnk/"><img src="https://img.shields.io/badge/Instagram-@itz__me____smnk-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.instagram.com/kgisl_google_community/"><img src="https://img.shields.io/badge/KG_KITE_Google_Community-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+  <!-- ⚡ 2. Dynamic Typing SVG Animation -->
+  <a href="https://premaailabs.tech">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Nandhakumar+M+👋;Founder+%26+CEO+of+Prema+AI+Labs+🚀;Google+Student+Ambassador+🌐;Fullstack+AI+%26+Android+Developer+📱;Cyber+Security+Engineer+🛡️;Building+Tech+for+Students+%26+Communities+🇮🇳&font=Fira+Code&size=22&center=true&width=750&height=45&color=A855F7&vCenter=true" alt="Typing Banner" />
+  </a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/smnk-infotech/smnk-infotech/main/assets/hero.jpg" width="650" alt="Developer Illustration" />
-</p>
+  <br/><br/>
+
+  <!-- 🔗 3. Socials & Official Links Badges -->
+  <p align="center">
+    <a href="https://premaailabs.tech/"><img src="https://img.shields.io/badge/Official_Website-premaailabs.tech-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="mailto:smnk2006@gmail.com"><img src="https://img.shields.io/badge/Personal_Email-smnk2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:24ucy129nandha@kgkite.ac.in"><img src="https://img.shields.io/badge/College_Email-24ucy129nandha%40kgkite.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/nandhakumar-murugan-807a80286/"><img src="https://img.shields.io/badge/LinkedIn-Nandhakumar_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://me.developers.google.com/u/117885705982936180625"><img src="https://img.shields.io/badge/Google_Developers-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+    <a href="https://x.com/Nandhakuma54212"><img src="https://img.shields.io/badge/X-@Nandhakuma54212-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+    <a href="https://medium.com/@nandhakumarmurugan"><img src="https://img.shields.io/badge/Medium-@nandhakumarmurugan-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <a href="https://www.instagram.com/itz_me__smnk/"><img src="https://img.shields.io/badge/Instagram-@itz__me____smnk-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.instagram.com/kgisl_google_community/"><img src="https://img.shields.io/badge/KG_KITE_Google_Community-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  </p>
+
+  <!-- 🎨 4. Centered Hero Artwork Illustration -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/smnk-infotech/smnk-infotech/main/assets/hero.jpg" width="680" alt="Developer Illustration" style="border-radius:14px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+  </p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me & Vision
+
+> *"I believe in high-velocity execution — taking complex AI models, modern web frameworks, and native mobile architectures to build production-grade platforms that create tangible real-world impact."*
 
 - 🚀 **Founder & CEO:** **[Prema AI Labs](https://premaailabs.tech/)** (under **SMNK Infotech**)
 - 🤖 **AI Architecture:** Building AI learning, productivity, and document intelligence platforms
@@ -42,13 +53,15 @@
 
 ## 🌐 Live Production Platforms & Impact
 
-| Platform | Role | Tech Stack | Status |
-|----------|------|------------|--------|
-| 🧠 **[Prema AI Labs](https://premaailabs.tech/)** | Founder & Lead Architect | Next.js 14, React, Tailwind, Gemini API | 🌐 [Live Platform](https://premaailabs.tech/) |
-| 🤝 **[Flyers Charitable Trust](https://flyerscharitabletrust.org/)** | Web Developer (SMNK Infotech) | HTML, CSS, JavaScript, Web Hosting | 🌐 [Live Website](https://flyerscharitabletrust.org/) |
-| ❤️ **[Jeeva Karangal Charitable Trust](https://jeevakarangal.org/)** | Web Developer (SMNK Infotech) | HTML, CSS, Responsive Web Design | 🌐 [Live Website](https://jeevakarangal.org/) |
+| Platform | Role | Tech Stack | Live Deployed Link |
+|----------|------|------------|--------------------|
+| 🧠 **[Prema AI Labs](https://premaailabs.tech/)** | Founder & Lead Architect | Next.js 14, React, Tailwind, Gemini API | 🌐 **[premaailabs.tech](https://premaailabs.tech/)** |
+| 🤝 **[Flyers Charitable Trust](https://flyerscharitabletrust.org/)** | Web Developer (SMNK Infotech) | HTML, CSS, JavaScript, Web Hosting | 🌐 **[flyerscharitabletrust.org](https://flyerscharitabletrust.org/)** |
+| ❤️ **[Jeeva Karangal Charitable Trust](https://jeevakarangal.org/)** | Web Developer (SMNK Infotech) | HTML, CSS, Responsive Web Design | 🌐 **[jeevakarangal.org](https://jeevakarangal.org/)** |
 
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 
 ## 💼 Featured Open-Source Projects
 
@@ -87,9 +100,9 @@ Machine learning model and custom dataset for AI vs. Human content classificatio
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Specialized Technical Stack
 
-### Languages
+### 🚀 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -98,17 +111,17 @@ Machine learning model and custom dataset for AI vs. Human content classificatio
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### Web & Mobile
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+### 🌐 Web & Mobile Frameworks
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### AI & Backend
+### 🤖 AI, LLMs & Databases
 ![Gemini API](https://img.shields.io/badge/Google_Gemini_API-8E44AD?style=for-the-badge&logo=google&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -116,33 +129,47 @@ Machine learning model and custom dataset for AI vs. Human content classificatio
 
 ---
 
-## 🏆 Achievements & Badges
+## 🏆 Achievements & 3D Trophies
 
-🥇 Founder & CEO of **Prema AI Labs** (SMNK Infotech)  
-🌟 **Google Student Ambassador (GSP 2.0)** & Lead @ KG KITE Google Community  
-🌐 Developed Live Web Platforms: [premaailabs.tech](https://premaailabs.tech/), [flyerscharitabletrust.org](https://flyerscharitabletrust.org/), [jeevakarangal.org](https://jeevakarangal.org/)  
-💻 **39+ Published Repositories** on GitHub  
-🎓 Certified Developer on [GUVI](https://www.guvi.in/smnk200626379) & [Google Play Academy](https://playacademy.exceedlms.com/profiles/nandhakumarmurugan93dd82c1)
+<p align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=smnk-infotech&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="smnk-infotech Trophies" />
+</p>
+
+- 🥇 Founder & CEO of **Prema AI Labs** (SMNK Infotech)  
+- 🌟 **Google Student Ambassador (GSP 2.0)** & Lead @ KG KITE Google Community  
+- 🌐 Developed Live Web Platforms: [premaailabs.tech](https://premaailabs.tech/), [flyerscharitabletrust.org](https://flyerscharitabletrust.org/), [jeevakarangal.org](https://jeevakarangal.org/)  
+- 💻 **39+ Published Repositories** on GitHub  
+- 🎓 Certified Developer on [GUVI](https://www.guvi.in/smnk200626379) & [Google Play Academy](https://playacademy.exceedlms.com/profiles/nandhakumarmurugan93dd82c1)
 
 ---
 
-## 📈 GitHub Stats
+## 🐍 Animated Contribution Grid Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smnk-infotech&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnk-infotech&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://raw.githubusercontent.com/smnk-infotech/smnk-infotech/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=smnk-infotech&theme=tokyonight" width="97%" />
-</p>
+---
+
+## 📈 GitHub Analytics & Activity
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=smnk-infotech&show_icons=true&theme=tokyonight&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnk-infotech&layout=compact&theme=tokyonight" width="49%" alt="Top Languages" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=smnk-infotech&theme=tokyonight" width="98%" alt="GitHub Streak" />
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-| Platform | Link |
-|----------|------|
+| Platform | Official URL |
+|----------|--------------|
 | 🌐 **Official Website** | [premaailabs.tech](https://premaailabs.tech/) |
 | 💼 **LinkedIn** | [linkedin.com/in/nandhakumar-murugan-807a80286](https://www.linkedin.com/in/nandhakumar-murugan-807a80286/) |
 | 🌐 **Google Developers** | [me.developers.google.com/u/117885705982936180625](https://me.developers.google.com/u/117885705982936180625) |
@@ -159,6 +186,13 @@ Machine learning model and custom dataset for AI vs. Human content classificatio
 
 ---
 
-<p align="center">
-  <i>"Building AI that empowers millions of students and communities to learn, create, and grow."</i>
-</p>
+<div align="center">
+
+  <!-- 🌊 Footer Wave Render -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:6366F1&height=120&section=footer" width="100%" alt="Footer Banner" />
+
+  <p align="center">
+    <i>"Building AI that empowers millions of students and communities to learn, create, and grow."</i>
+  </p>
+
+</div>
