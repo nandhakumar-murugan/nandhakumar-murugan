@@ -1,28 +1,26 @@
 <div align="center">
 
-  <h1>Nandhakumar Murugan</h1>
+  <!-- 🌊 1. Animated Capsule Render Header Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:9333EA&height=220&section=header&text=Nandhakumar%20Murugan&fontSize=46&fontColor=ffffff&animation=twinkling&desc=Founder%20%26%20CEO%20@%20Prema%20AI%20Labs%20%7C%20Google%20Student%20Ambassador&descSize=19&descAlign=50&descAlignY=70" width="100%" alt="Animated Header Wave" />
 
-  <h3>🚀 Founder & CEO of Prema AI Labs | Lead Architect @ SMNK Infotech</h3>
-  <p><b>🌍 Google Student Ambassador (GSP 2.0) | AI Engineer | Full Stack & Android Developer</b></p>
+  <br/><br/>
 
-  <p>Building AI-Powered Digital Infrastructure for Education, Productivity & Social Good</p>
-
-  <!-- 📸 User Real Profile Picture (Glowing Circular Frame) -->
+  <!-- 📸 2. Profile Photo -->
   <a href="https://github.com/nandhakumar-murugan">
-    <img src="https://raw.githubusercontent.com/nandhakumar-murugan/nandhakumar-murugan/main/assets/profile.png" width="220" height="220" alt="Nandhakumar Murugan" style="border-radius: 50%; border: 4px solid #6366F1; box-shadow: 0 10px 30px rgba(99, 102, 241, 0.5);" />
+    <img src="https://raw.githubusercontent.com/nandhakumar-murugan/nandhakumar-murugan/main/assets/profile.png" width="200" height="200" alt="Nandhakumar Murugan" />
   </a>
 
   <br/><br/>
 
-  <!-- ⚡ Animated Typing SVG Banner -->
-  <p>
-    <a href="https://premaailabs.tech">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Google+Student+Ambassador+🌐;Founder+%26+CEO+of+Prema+AI+Labs+🚀;Fullstack+AI+%26+Android+Developer+📱;Cyber+Security+Engineer+🛡️;Building+Tech+for+Students+%26+Communities+🇮🇳&font=Fira+Code&size=22&center=true&width=750&height=45&color=4285F4&vCenter=true" alt="Typing Animation" />
-    </a>
-  </p>
+  <!-- ⚡ 3. Animated Typing Banner (Herokuapp Endpoint) -->
+  <a href="https://premaailabs.tech">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Google+Student+Ambassador+🌐;Founder+%26+CEO+of+Prema+AI+Labs+🚀;Fullstack+AI+%26+Android+Developer+📱;Cyber+Security+Engineer+🛡️;Building+Tech+for+Students+%26+Communities+🇮🇳&font=Fira+Code&size=22&center=true&width=750&height=45&color=A855F7&vCenter=true" alt="Typing Banner Animation" />
+  </a>
 
-  <!-- 🌟 Official Google & Primary Connect Badges Bar -->
-  <p>
+  <br/><br/>
+
+  <!-- 🌟 4. Social Badges -->
+  <p align="center">
     <a href="https://me.developers.google.com/u/117885705982936180625"><img src="https://img.shields.io/badge/Google_Developers-Verified_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers" /></a>
     <a href="https://premaailabs.tech/"><img src="https://img.shields.io/badge/Google_Gemini_AI-Prema_AI_Labs-8E44AD?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" /></a>
     <a href="https://playacademy.exceedlms.com/profiles/nandhakumarmurugan93dd82c1"><img src="https://img.shields.io/badge/Google_Play_Academy-Certified-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play Academy" /></a>
@@ -36,7 +34,7 @@
   <br/>
 
   <!-- Developer Illustration Artwork -->
-  <p>
+  <p align="center">
     <img src="https://raw.githubusercontent.com/nandhakumar-murugan/nandhakumar-murugan/main/assets/hero.jpg" width="680" alt="Developer Artwork" />
   </p>
 
@@ -132,60 +130,25 @@ Python-based web application for executing automated AI workflows.
 
 ---
 
-## 🛠️ Technology Stack & Official Logos
-
-### 🤖 AI, LLMs & Cloud Databases
-![Google Gemini](https://img.shields.io/badge/Google_Gemini_API-8E44AD?style=for-the-badge&logo=google&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🚀 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### 🌐 Web & Mobile Frameworks
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
----
-
 ## 🏆 Achievements & 3D Trophies
 
 <p align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=nandhakumar-murugan&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="nandhakumar-murugan Trophies" />
 </p>
 
-- 🥇 Founder & CEO of **Prema AI Labs** (SMNK Infotech)  
-- 🌟 **Google Student Ambassador (GSP 2.0)** & Lead @ KG KITE Google Community  
-- 🌐 Developed Live Web Platforms: [premaailabs.tech](https://premaailabs.tech/), [flyerscharitabletrust.org](https://flyerscharitabletrust.org/), [jeevakarangal.org](https://jeevakarangal.org/)  
-- 💻 **39+ Published Repositories** on GitHub  
-- 🎓 Certified Developer on [GUVI](https://www.guvi.in/smnk200626379) & [Google Play Academy](https://playacademy.exceedlms.com/profiles/nandhakumarmurugan93dd82c1)
-
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Analytics & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nandhakumar-murugan&show_icons=true&theme=tokyonight" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhakumar-murugan&layout=compact&theme=tokyonight" width="49%" alt="Top Languages" />
 </div>
 
+<br/>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nandhakumar-murugan&theme=tokyonight" width="97%" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=nandhakumar-murugan&theme=tokyonight" width="98%" alt="Streak Stats Animation" />
 </p>
 
 ---
@@ -210,5 +173,12 @@ Python-based web application for executing automated AI workflows.
 ---
 
 <div align="center">
-  <p><i>"Building AI that empowers millions of students and communities to learn, create, and grow."</i></p>
+
+  <!-- 🌊 Animated Capsule Render Wave Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:6366F1&height=120&section=footer" width="100%" alt="Animated Footer Wave" />
+
+  <p align="center">
+    <i>"Building AI that empowers millions of students and communities to learn, create, and grow."</i>
+  </p>
+
 </div>
