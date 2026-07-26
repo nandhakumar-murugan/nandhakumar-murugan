@@ -5,21 +5,14 @@
 
   <br/><br/>
 
-  <!-- 📸 2. Profile Photo -->
-  <a href="https://github.com/nandhakumar-murugan">
-    <img src="https://raw.githubusercontent.com/nandhakumar-murugan/nandhakumar-murugan/main/assets/profile.png" width="200" height="200" alt="Nandhakumar Murugan" />
-  </a>
-
-  <br/><br/>
-
-  <!-- ⚡ 3. Animated Typing Banner (Herokuapp Endpoint) -->
+  <!-- ⚡ 2. Animated Typing Banner -->
   <a href="https://premaailabs.tech">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Google+Student+Ambassador+🌐;Founder+%26+CEO+of+Prema+AI+Labs+🚀;Fullstack+AI+%26+Android+Developer+📱;Cyber+Security+Engineer+🛡️;Building+Tech+for+Students+%26+Communities+🇮🇳&font=Fira+Code&size=22&center=true&width=750&height=45&color=A855F7&vCenter=true" alt="Typing Banner Animation" />
   </a>
 
   <br/><br/>
 
-  <!-- 🌟 4. Social Badges -->
+  <!-- 🌟 3. Social Badges -->
   <p align="center">
     <a href="https://me.developers.google.com/u/117885705982936180625"><img src="https://img.shields.io/badge/Google_Developers-Verified_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers" /></a>
     <a href="https://premaailabs.tech/"><img src="https://img.shields.io/badge/Google_Gemini_AI-Prema_AI_Labs-8E44AD?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" /></a>
