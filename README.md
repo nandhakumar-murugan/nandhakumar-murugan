@@ -11,6 +11,8 @@
 <!-- Social Badges Header -->
 <p align="center">
   <a href="https://premaailabs.tech/"><img src="https://img.shields.io/badge/Official_Website-premaailabs.tech-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:smnk2006@gmail.com"><img src="https://img.shields.io/badge/Personal_Email-smnk2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:24ucy129nandha@kgkite.ac.in"><img src="https://img.shields.io/badge/College_Email-24ucy129nandha%40kgkite.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/nandhakumar-murugan-807a80286/"><img src="https://img.shields.io/badge/LinkedIn-Nandhakumar_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://me.developers.google.com/u/117885705982936180625"><img src="https://img.shields.io/badge/Google_Developers-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
   <a href="https://x.com/Nandhakuma54212"><img src="https://img.shields.io/badge/X-@Nandhakuma54212-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -144,13 +146,14 @@ Machine learning model and custom dataset for AI vs. Human content classificatio
 | 🌐 **Official Website** | [premaailabs.tech](https://premaailabs.tech/) |
 | 💼 **LinkedIn** | [linkedin.com/in/nandhakumar-murugan-807a80286](https://www.linkedin.com/in/nandhakumar-murugan-807a80286/) |
 | 🌐 **Google Developers** | [me.developers.google.com/u/117885705982936180625](https://me.developers.google.com/u/117885705982936180625) |
+| 📧 **Personal Email** | [smnk2006@gmail.com](mailto:smnk2006@gmail.com) |
+| 📧 **Institutional Email** | [24ucy129nandha@kgkite.ac.in](mailto:24ucy129nandha@kgkite.ac.in) |
 | 📸 **Instagram (Personal)** | [@itz_me__smnk](https://www.instagram.com/itz_me__smnk/) |
 | 👥 **Instagram (KG KITE Google Community)** | [@kgisl_google_community](https://www.instagram.com/kgisl_google_community/) |
 | ✍️ **Medium** | [@nandhakumarmurugan](https://medium.com/@nandhakumarmurugan) |
 | 🐦 **X (Twitter)** | [@Nandhakuma54212](https://x.com/Nandhakuma54212) |
 | 🚀 **GUVI Profile** | [guvi.in/smnk200626379](https://www.guvi.in/smnk200626379) |
 | 🎓 **Google Play Academy** | [playacademy.exceedlms.com](https://playacademy.exceedlms.com/profiles/nandhakumarmurugan93dd82c1) |
-| 📧 **Email** | [24ucy129nandha@kgkite.ac.in](mailto:24ucy129nandha@kgkite.ac.in) |
 | 🐙 **GitHub (Org)** | [github.com/smnk-infotech](https://github.com/smnk-infotech) |
 | 👤 **GitHub (Personal)** | [github.com/smnk2006](https://github.com/smnk2006) |
 
