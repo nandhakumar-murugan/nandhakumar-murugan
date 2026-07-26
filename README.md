@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- 🌊 1. Dynamic Waving Gradient Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:9333EA&height=220&section=header&text=Nandhakumar%20Murugan&fontSize=46&fontColor=ffffff&animation=twinkling&desc=Founder%20%26%20CEO%20@%20Prema%20AI%20Labs%20%7C%20Google%20Student%20Ambassador&descSize=19&descAlign=50&descAlignY=70" width="100%" alt="Animated Header Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:9333EA&height=220&section=header&text=Nandhakumar%20Murugan&fontSize=46&fontColor=ffffff&animation=twinkling&desc=Google%20Student%20Ambassador%20%7C%20AI%20%26%20Full%20Stack%20Developer&descSize=19&descAlign=50&descAlignY=70" width="100%" alt="Animated Header Wave" />
 
   <br/><br/>
 
   <!-- ⚡ 2. Animated Typing Banner -->
   <a href="https://premaailabs.tech">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Google+Student+Ambassador+🌐;Founder+%26+CEO+of+Prema+AI+Labs+🚀;Fullstack+AI+%26+Android+Developer+📱;Cyber+Security+Engineer+🛡️;Building+Tech+for+Students+%26+Communities+🇮🇳&font=Fira+Code&size=22&center=true&width=750&height=45&color=A855F7&vCenter=true" alt="Typing Banner Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Google+Student+Ambassador+🌐;AI+%26+Full+Stack+Developer+🚀;Native+Android+Developer+(Kotlin)+📱;Cyber+Security+Student+@+KG+KITE+🛡️;Building+Tech+for+Students+%26+Communities+🇮🇳&font=Fira+Code&size=22&center=true&width=750&height=45&color=A855F7&vCenter=true" alt="Typing Banner Animation" />
   </a>
 
   <br/><br/>
@@ -37,36 +37,7 @@
 
 ---
 
-## 🕹️ Interactive Games Section
-
-<div align="center">
-
-  <h3>🎮 Play Games Directly on My GitHub!</h3>
-
-  <table align="center">
-    <tr>
-      <td align="center" width="50%">
-        <h4>🐍 Retro Classic Snake Game</h4>
-        <p>Play my custom open-source JavaScript Snake Game live in your browser!</p>
-        <a href="https://github.com/nandhakumar-murugan/snake-game-javascript">
-          <img src="https://img.shields.io/badge/PLAY_NOW-Retro_Snake_Game-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <h4>❌⭕ Tic-Tac-Toe Game</h4>
-        <p>Challenge the Tic-Tac-Toe bot or play a match in your browser!</p>
-        <a href="https://github.com/nandhakumar-murugan/snake-game-javascript">
-          <img src="https://img.shields.io/badge/PLAY_NOW-Tic--Tac--Toe-4285F4?style=for-the-badge&logo=gamepad&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
----
-
-## 🌍 Google Ecosystem & Ambassador Credentials
+## 🌍 Google Ecosystem & Ambassador Journey
 
 <p align="center">
   <img src="https://img.shields.io/badge/Google_Student_Ambassador-GSP_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white" />
@@ -75,30 +46,33 @@
   <img src="https://img.shields.io/badge/Google_Play_Academy-Certified_Developer-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
 </p>
 
-- 🌟 **Google Student Ambassador (GSP 2.0):** Lead & Task Tracker Representative at KGiSL Institute of Technology (KG KITE).
-- 🤖 **Google Gemini API Developer:** Deep integration of Gemini models into **Prema AI Study Companion**, **Prema Builds AI**, and **Android AI Search Hub**.
+- 🌟 **Google Student Ambassador (GSP 2.0):** Technical Lead & Representative at KGiSL Institute of Technology (KG KITE).
+- 🤖 **Google Gemini API Developer:** Integrating Gemini Flash & Pro models into **Prema AI Study Companion**, **Prema Builds AI**, and **Android AI Search Hub**.
 - 🎓 **Google Play Academy Certification:** Certified in Android app distribution, Store optimization, and mobile app architecture.
 
 ---
 
-## 👨‍💻 Executive Summary
+## 🧠 Prema AI Labs Platform & Webpage Sections
 
-- 🚀 **Founder & CEO:** **[Prema AI Labs](https://premaailabs.tech/)** (under **SMNK Infotech**) — Designing next-generation AI learning & productivity platforms.
-- 🤖 **AI System Architecture:** Developing LLM assistants, document intelligence tools, and custom fine-tuned model pipelines.
-- 📱 **Mobile Engineering:** Native Android Development using Kotlin, Jetpack Compose, Coroutines, and Android SDK.
-- 🌐 **Full Stack Development:** High-performance web applications using Next.js 14 (App Router), React, TypeScript, Node.js & Firebase.
-- 🎓 **Education:** B.E. Computer Science & Cyber Security @ **KGiSL Institute of Technology (KG KITE)**.
-- 🇮🇳 **Social Impact:** Engineering deployed web infrastructure for students, educators, and charitable trusts across India.
+| Section / Category | Description | Direct Web Link |
+|--------------------|-------------|-----------------|
+| 🧠 **Prema AI Labs** | Main Platform Overview | 🌐 **[premaailabs.tech](https://premaailabs.tech/)** |
+| 📦 **Products & APIs** | AI Tools, Models & API Endpoints | 🌐 **[Products & APIs](https://premaailabs.tech/#products)** |
+| 🔬 **Research & Weights** | Model Weights & AI Research Papers | 🌐 **[Research & Weights](https://premaailabs.tech/#research)** |
+| 📖 **Developer Docs** | API Documentation & SDK Guides | 🌐 **[Developer Docs](https://premaailabs.tech/#docs)** |
+| 💎 **Pricing & Subscriptions** | Subscription Plans & Student Tiers | 🌐 **[Pricing](https://premaailabs.tech/#pricing)** |
+| 📚 **Syllabus Resources** | Educational Materials & Study Guides | 🌐 **[Syllabus Resources](https://premaailabs.tech/#syllabus)** |
+| 🤝 **NGO Collaborations** | Social Impact Web Portals & Non-Profits | 🌐 **[NGO Collaborations](https://premaailabs.tech/#ngo)** |
 
 ---
 
-## 🌐 Live Production Platforms & Impact
+## 🌐 Live Production Platforms & Deployed Sites
 
-| Platform / Portal | Role | Technology Stack | Live Status |
-|-------------------|------|------------------|-------------|
-| 🧠 **[Prema AI Labs](https://premaailabs.tech/)** | Founder & Lead Architect | Next.js 14, React, TypeScript, Tailwind, Gemini API | 🌐 **[premaailabs.tech](https://premaailabs.tech/)** |
-| 🤝 **[Flyers Charitable Trust](https://flyerscharitabletrust.org/)** | Web Developer (SMNK Infotech) | HTML5, CSS3, JavaScript, Web Hosting | 🌐 **[flyerscharitabletrust.org](https://flyerscharitabletrust.org/)** |
-| ❤️ **[Jeeva Karangal Charitable Trust](https://jeevakarangal.org/)** | Web Developer (SMNK Infotech) | HTML5, CSS3, Responsive Architecture | 🌐 **[jeevakarangal.org](https://jeevakarangal.org/)** |
+| Platform / Site | Technology Stack | Live URL |
+|-----------------|------------------|----------|
+| 🧠 **Prema AI Labs** | Next.js 14, React, TypeScript, Gemini API | 🌐 **[premaailabs.tech](https://premaailabs.tech/)** |
+| 🤝 **Flyers Charitable Trust** | HTML5, CSS3, JavaScript, Web Hosting | 🌐 **[flyerscharitabletrust.org](https://flyerscharitabletrust.org/)** |
+| ❤️ **Jeeva Karangal Trust** | HTML5, CSS3, Responsive Architecture | 🌐 **[jeevakarangal.org](https://jeevakarangal.org/)** |
 
 ---
 
@@ -106,10 +80,10 @@
 
 ---
 
-## 💼 Flagship Open-Source Projects
+## 💼 Featured Open-Source Projects
 
 ### ⭐ Prema AI Labs Official Platform
-The flagship production web platform for the Prema AI learning & productivity ecosystem.  
+Production web platform for Prema AI learning & productivity ecosystem.  
 🌐 **Website:** [https://premaailabs.tech](https://premaailabs.tech)  
 **Tech Stack:** Next.js 14 • React • TypeScript • Tailwind CSS • Firebase • Gemini API  
 **Repository:** [nandhakumar-murugan/Prema.AI.Labs](https://github.com/nandhakumar-murugan/Prema.AI.Labs)
@@ -149,6 +123,35 @@ Conversational AI healthcare and guidance assistant for pet owners.
 Python-based web application for executing automated AI workflows.  
 **Tech Stack:** Python • Flask • NLTK  
 **Repository:** [nandhakumar-murugan/ai-agent-python-app](https://github.com/nandhakumar-murugan/ai-agent-python-app)
+
+---
+
+## 🕹️ Interactive Games Section
+
+<div align="center">
+
+  <h3>🎮 Play Games Directly on My GitHub!</h3>
+
+  <table align="center">
+    <tr>
+      <td align="center" width="50%">
+        <h4>🐍 Retro Classic Snake Game</h4>
+        <p>Play my custom open-source JavaScript Snake Game live in your browser!</p>
+        <a href="https://github.com/nandhakumar-murugan/snake-game-javascript">
+          <img src="https://img.shields.io/badge/PLAY_NOW-Retro_Snake_Game-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <h4>❌⭕ Tic-Tac-Toe Game</h4>
+        <p>Challenge the Tic-Tac-Toe bot or play a match in your browser!</p>
+        <a href="https://github.com/nandhakumar-murugan/snake-game-javascript">
+          <img src="https://img.shields.io/badge/PLAY_NOW-Tic--Tac--Toe-4285F4?style=for-the-badge&logo=gamepad&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 
