@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hi, I'm Nandhakumar M | Founder @ Prema AI Labs | AI & Fullstack Developer</h1>
+<h1 align="center">Hi, I'm Nandhakumar M | Founder @ Prema AI Labs | AI & Fullstack Developer</h1>
 
 <p align="center">
   <b>Engineering Student @ KGiSL Institute of Technology (KG KITE) | Learning, Building, Sharing, Innovating, Scaling</b>
