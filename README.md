@@ -1,11 +1,18 @@
 <div align="center">
 
-  <h1>Nandhakumar M</h1>
+  <h1>Nandhakumar Murugan</h1>
 
   <h3>🚀 Founder & CEO of Prema AI Labs | Lead Architect @ SMNK Infotech</h3>
   <p><b>🌍 Google Student Ambassador (GSP 2.0) | AI Engineer | Full Stack & Android Developer</b></p>
 
   <p>Building AI-Powered Digital Infrastructure for Education, Productivity & Social Good</p>
+
+  <!-- 📸 User Real Profile Picture (Glowing Circular Frame) -->
+  <a href="https://github.com/nandhakumar-murugan">
+    <img src="https://raw.githubusercontent.com/nandhakumar-murugan/nandhakumar-murugan/main/assets/profile.png" width="220" height="220" alt="Nandhakumar Murugan" style="border-radius: 50%; border: 4px solid #6366F1; box-shadow: 0 10px 30px rgba(99, 102, 241, 0.5);" />
+  </a>
+
+  <br/><br/>
 
   <!-- ⚡ Animated Typing SVG Banner -->
   <p>
@@ -30,7 +37,7 @@
 
   <!-- Developer Illustration Artwork -->
   <p>
-    <img src="https://raw.githubusercontent.com/smnk-infotech/smnk-infotech/main/assets/hero.jpg" width="680" alt="Developer Artwork" />
+    <img src="https://raw.githubusercontent.com/nandhakumar-murugan/nandhakumar-murugan/main/assets/hero.jpg" width="680" alt="Developer Artwork" />
   </p>
 
 </div>
@@ -85,7 +92,7 @@
 The flagship production web platform for the Prema AI learning & productivity ecosystem.  
 🌐 **Website:** [https://premaailabs.tech](https://premaailabs.tech)  
 **Tech Stack:** Next.js 14 • React • TypeScript • Tailwind CSS • Firebase • Gemini API  
-**Repository:** [smnk-infotech/Prema.AI.Labs](https://github.com/smnk-infotech/Prema.AI.Labs)
+**Repository:** [nandhakumar-murugan/Prema.AI.Labs](https://github.com/nandhakumar-murugan/Prema.AI.Labs)
 
 ---
 
@@ -93,35 +100,35 @@ The flagship production web platform for the Prema AI learning & productivity ec
 Cross-platform AI learning assistant featuring instant homework problem solving, PDF analysis, and automated quiz generation.  
 **Features:** AI Chat • PDF Document Analysis • Quiz Generator • Flashcards • Notes • Multi-language Support  
 **Tech Stack:** Flutter • ElectronJS • Firebase • Cloud Functions • Gemini API  
-**Repository:** [smnk-infotech/ai-study-companion](https://github.com/smnk-infotech/ai-study-companion)
+**Repository:** [nandhakumar-murugan/ai-study-companion](https://github.com/nandhakumar-murugan/ai-study-companion)
 
 ---
 
 ### ⭐ Android AI Search Hub v4
 Native Android AI application delivering unified AI search queries across models.  
 **Tech Stack:** Kotlin • Jetpack Compose • StateFlow • Android SDK • Gradle  
-**Repository:** [smnk-infotech/android-ai-search-hub-v4](https://github.com/smnk-infotech/android-ai-search-hub-v4)
+**Repository:** [nandhakumar-murugan/android-ai-search-hub-v4](https://github.com/nandhakumar-murugan/android-ai-search-hub-v4)
 
 ---
 
 ### ⭐ AI Human Content Detector
 Machine learning classification model and custom dataset for distinguishing AI-generated text from human writing.  
 **Tech Stack:** Python • Machine Learning • CSV Dataset  
-**Repository:** [smnk-infotech/ai-human-content-detector](https://github.com/smnk-infotech/ai-human-content-detector)
+**Repository:** [nandhakumar-murugan/ai-human-content-detector](https://github.com/nandhakumar-murugan/ai-human-content-detector)
 
 ---
 
 ### ⭐ PetCare AI Chatbot
 Conversational AI healthcare and guidance assistant for pet owners.  
 **Tech Stack:** Python • Flask • AI Chat API  
-**Repository:** [smnk-infotech/petcare-ai-chatbot](https://github.com/smnk-infotech/petcare-ai-chatbot)
+**Repository:** [nandhakumar-murugan/petcare-ai-chatbot](https://github.com/nandhakumar-murugan/petcare-ai-chatbot)
 
 ---
 
 ### ⭐ Autonomous AI Agent Application
 Python-based web application for executing automated AI workflows.  
 **Tech Stack:** Python • Flask • NLTK  
-**Repository:** [smnk-infotech/ai-agent-python-app](https://github.com/smnk-infotech/ai-agent-python-app)
+**Repository:** [nandhakumar-murugan/ai-agent-python-app](https://github.com/nandhakumar-murugan/ai-agent-python-app)
 
 ---
 
@@ -156,12 +163,30 @@ Python-based web application for executing automated AI workflows.
 
 ---
 
+## 🏆 Achievements & 3D Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=nandhakumar-murugan&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="nandhakumar-murugan Trophies" />
+</p>
+
+- 🥇 Founder & CEO of **Prema AI Labs** (SMNK Infotech)  
+- 🌟 **Google Student Ambassador (GSP 2.0)** & Lead @ KG KITE Google Community  
+- 🌐 Developed Live Web Platforms: [premaailabs.tech](https://premaailabs.tech/), [flyerscharitabletrust.org](https://flyerscharitabletrust.org/), [jeevakarangal.org](https://jeevakarangal.org/)  
+- 💻 **39+ Published Repositories** on GitHub  
+- 🎓 Certified Developer on [GUVI](https://www.guvi.in/smnk200626379) & [Google Play Academy](https://playacademy.exceedlms.com/profiles/nandhakumarmurugan93dd82c1)
+
+---
+
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smnk-infotech&show_icons=true&theme=tokyonight" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnk-infotech&layout=compact&theme=tokyonight" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nandhakumar-murugan&show_icons=true&theme=tokyonight" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhakumar-murugan&layout=compact&theme=tokyonight" width="49%" alt="Top Languages" />
 </div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nandhakumar-murugan&theme=tokyonight" width="97%" alt="Streak Stats" />
+</p>
 
 ---
 
@@ -180,8 +205,7 @@ Python-based web application for executing automated AI workflows.
 | 🐦 **X (Twitter)** | [@Nandhakuma54212](https://x.com/Nandhakuma54212) |
 | 🚀 **GUVI Profile** | [guvi.in/smnk200626379](https://www.guvi.in/smnk200626379) |
 | 🎓 **Google Play Academy** | [playacademy.exceedlms.com](https://playacademy.exceedlms.com/profiles/nandhakumarmurugan93dd82c1) |
-| 🐙 **GitHub (Org)** | [github.com/smnk-infotech](https://github.com/smnk-infotech) |
-| 👤 **GitHub (Personal)** | [github.com/smnk2006](https://github.com/smnk-infotech) |
+| 🐙 **GitHub** | [github.com/nandhakumar-murugan](https://github.com/nandhakumar-murugan) |
 
 ---
 
