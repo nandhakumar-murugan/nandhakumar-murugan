@@ -1,11 +1,11 @@
 <h1 align="center">Hi ðŸ‘‹, I'm Nandhakumar M</h1>
 
 <h3 align="center">
-ðŸš€ Founder & CEO of Prema AI Labs | Google Student Ambassador | AI Engineer | Full Stack & Android Developer
+ðŸš€ Founder & CEO of Prema AI Labs | Lead @ SMNK Infotech | Google Student Ambassador | AI Engineer | Full Stack & Android Developer
 </h3>
 
 <p align="center">
-Building AI-powered products for education, productivity, and the future of intelligent software.
+Building AI-powered products for education, productivity, and real-world social impact software.
 </p>
 
 <p align="center">
@@ -16,31 +16,24 @@ Building AI-powered products for education, productivity, and the future of inte
 
 ## ðŸ‘¨ðŸ’» About Me
 
-- ðŸš€ Founder & CEO of **Prema AI Labs**
-- ðŸ¤– Building AI-powered learning and productivity platforms
-- ðŸ“± Android Developer (Kotlin & Jetpack Compose)
-- ðŸŒ Full Stack Developer (Next.js, React & Firebase)
-- ðŸ§  Passionate about Generative AI, LLMs, AI Agents, and Cyber Security
-- ðŸŽ“ B.E. Computer Science & Cyber Security Student at KGiSL Institute of Technology
-- ðŸŒ Google Student Ambassador
-- ðŸ‡®ðŸ‡³ Building AI products for students and educators across India
+- ðŸš€ Founder & CEO of **Prema AI Labs** (under **SMNK Infotech**)
+- ðŸ¤– Building AI-powered learning, productivity, and document intelligence platforms
+- ðŸ“± Android Developer (Kotlin, Jetpack Compose & Android SDK)
+- ðŸŒ Full Stack Developer (Next.js, React, Node.js & Firebase)
+- ðŸ§  Passionate about Generative AI, LLMs, Fine-tuning, AI Agents, and Cyber Security
+- ðŸŽ“ B.E. Computer Science & Cyber Security Student at **KGiSL Institute of Technology (KG KITE)**
+- ðŸŒ **Google Student Ambassador (GSP 2.0)** & SRMC 2024 Technical Participant
+- ðŸ‡®ðŸ‡³ Building software and web platforms for students, educators, and social organizations across India
 
 ---
 
-## ðŸš€ What I'm Building
+## ðŸš€ Live Production Platforms & Impact
 
-### ðŸ§  Prema AI Labs
-An AI-powered ecosystem focused on education, productivity, and intelligent digital assistants.
-
-Current focus includes:
-- AI Study Companion
-- AI Chat Assistant
-- AI Coding Assistant
-- AI Document Intelligence
-- AI Image Understanding
-- Flashcards & Quiz Generator
-- Personalized Learning
-- Voice AI (Roadmap)
+| Platform / Website | Role | Tech Stack | Status |
+|-------------------|------|------------|--------|
+| ðŸ§  **[Prema AI Labs](https://premaailabs.tech/)** | Founder & Lead Architect | Next.js, React, Tailwind, Gemini API | ðŸŒ [Live Platform](https://premaailabs.tech/) |
+| ðŸ¤ **[Flyers Charitable Trust](https://flyerscharitabletrust.org/)** | Web Developer (SMNK Infotech) | HTML, CSS, JavaScript, Web Hosting | ðŸŒ [Live Website](https://flyerscharitabletrust.org/) |
+| â¤ï¸ **[Jeeva Karangal Charitable Trust](https://jeevakarangal.org/)** | Web Developer (SMNK Infotech) | HTML, CSS, Web Architecture | ðŸŒ [Live Website](https://jeevakarangal.org/) |
 
 ---
 
@@ -55,27 +48,26 @@ The official AI ecosystem for learning and productivity.
 
 ### â­ AI Study Companion
 Cross-platform AI learning platform with intelligent study tools.  
-**Features:** AI Chat â€¢ PDF Analysis â€¢ Quiz Generation â€¢ Flashcards â€¢ Notes â€¢ Multi-language Support
+**Features:** AI Chat â€¢ PDF Analysis â€¢ Quiz Generation â€¢ Flashcards â€¢ Notes â€¢ Multi-language Support  
+**Repo:** [smnk-infotech/ai-study-companion](https://github.com/smnk-infotech/ai-study-companion)
 
 ---
 
-### â­ Android AI Search Hub
-Native Android AI application built using Kotlin & Jetpack Compose.
-
----
-
-### â­ AI Learning Platform
-Modern AI-powered educational platform integrating Gemini APIs.
-
----
-
-### â­ Web Video Editor
-Browser-based modern video editing application.
+### â­ Android AI Search Hub v4
+Native Android AI application built using Kotlin & Jetpack Compose.  
+**Repo:** [smnk-infotech/android-ai-search-hub-v4](https://github.com/smnk-infotech/android-ai-search-hub-v4)
 
 ---
 
 ### â­ PetCare AI Chatbot
-Conversational AI assistant for pet owners.
+Conversational AI assistant for pet healthcare and advice.  
+**Repo:** [smnk-infotech/petcare-ai-chatbot](https://github.com/smnk-infotech/petcare-ai-chatbot)
+
+---
+
+### â­ AI Human Content Detector
+Machine learning model and dataset for AI vs. Human content detection.  
+**Repo:** [smnk-infotech/ai-human-content-detector](https://github.com/smnk-infotech/ai-human-content-detector)
 
 ---
 
@@ -100,7 +92,7 @@ Conversational AI assistant for pet owners.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
-### AI & Backend
+### AI & Cloud
 ![Gemini API](https://img.shields.io/badge/Google_Gemini_API-8E44AD?style=for-the-badge&logo=google&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -117,20 +109,20 @@ Conversational AI assistant for pet owners.
 
 ## ðŸ† Achievements
 
-ðŸ¥‡ Founder of **Prema AI Labs**  
-ðŸŒŸ **Google Student Ambassador**  
-ðŸ’» **60+ GitHub Repositories**  
-ðŸ“± Built Android, Web & AI Applications  
-ðŸŽ¯ Focused on AI Education & Productivity  
+ðŸ¥‡ Founder of **Prema AI Labs** (SMNK Infotech)  
+ðŸŒŸ **Google Student Ambassador (GSP 2.0)**  
+ðŸŒ Developed Live Web Platforms: [premaailabs.tech](https://premaailabs.tech/), [flyerscharitabletrust.org](https://flyerscharitabletrust.org/), [jeevakarangal.org](https://jeevakarangal.org/)  
+ðŸ’» **39+ GitHub Repositories** Published  
+ðŸŽ¯ Focused on AI Education & High-Impact Digital Software  
 
 ---
 
 ## ðŸŒ± Currently Learning
 
 - AI Agents & Multi-Agent Systems
-- Advanced Gemini APIs & Fine-tuning
+- Advanced Gemini APIs & LLM Fine-Tuning
 - Cyber Security & Ethical Hacking
-- Scalable AI Infrastructure
+- Scalable Cloud & AI Infrastructure
 
 ---
 
@@ -149,10 +141,11 @@ Conversational AI assistant for pet owners.
 
 ## ðŸ¤ Let's Connect
 
-ðŸŒ **Website:** [https://premaailabs.tech](https://premaailabs.tech)  
+ðŸŒ **Official Website:** [https://premaailabs.tech](https://premaailabs.tech)  
 ðŸ“§ **Email:** [24ucy129nandha@kgkite.ac.in](mailto:24ucy129nandha@kgkite.ac.in)  
-ðŸ™ **GitHub:** [https://github.com/smnk-infotech](https://github.com/smnk-infotech)  
+ðŸ™ **GitHub (Org):** [https://github.com/smnk-infotech](https://github.com/smnk-infotech)  
+ðŸ‘¤ **GitHub (Personal):** [https://github.com/smnk2006](https://github.com/smnk2006)  
 
 ---
 
-> *"Building AI that empowers millions of students to learn, create, and grow."*
+> *"Building AI that empowers millions of students and communities to learn, create, and grow."*
