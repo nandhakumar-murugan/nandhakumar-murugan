@@ -3,15 +3,24 @@
   <h1>Nandhakumar M</h1>
 
   <h3>🚀 Founder & CEO of Prema AI Labs | Lead Architect @ SMNK Infotech</h3>
-  <p><b>Google Student Ambassador | AI Engineer | Full Stack & Android Developer</b></p>
+  <p><b>🌍 Google Student Ambassador (GSP 2.0) | AI Engineer | Full Stack & Android Developer</b></p>
 
-  <p>Building AI-powered digital infrastructure for education, productivity, and social good across India.</p>
+  <p>Building AI-Powered Digital Infrastructure for Education, Productivity & Social Good</p>
 
-  <!-- Social Badges Bar -->
+  <!-- ⚡ Animated Typing SVG Banner -->
   <p>
-    <a href="https://premaailabs.tech/"><img src="https://img.shields.io/badge/Website-premaailabs.tech-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+    <a href="https://premaailabs.tech">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Google+Student+Ambassador+🌐;Founder+%26+CEO+of+Prema+AI+Labs+🚀;Fullstack+AI+%26+Android+Developer+📱;Cyber+Security+Engineer+🛡️;Building+Tech+for+Students+%26+Communities+🇮🇳&font=Fira+Code&size=22&center=true&width=750&height=45&color=4285F4&vCenter=true" alt="Typing Animation" />
+    </a>
+  </p>
+
+  <!-- 🌟 Official Google & Primary Connect Badges Bar -->
+  <p>
+    <a href="https://me.developers.google.com/u/117885705982936180625"><img src="https://img.shields.io/badge/Google_Developers-Verified_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers" /></a>
+    <a href="https://premaailabs.tech/"><img src="https://img.shields.io/badge/Google_Gemini_AI-Prema_AI_Labs-8E44AD?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" /></a>
+    <a href="https://playacademy.exceedlms.com/profiles/nandhakumarmurugan93dd82c1"><img src="https://img.shields.io/badge/Google_Play_Academy-Certified-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play Academy" /></a>
+    <a href="https://premaailabs.tech/"><img src="https://img.shields.io/badge/Website-premaailabs.tech-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
     <a href="https://www.linkedin.com/in/nandhakumar-murugan-807a80286/"><img src="https://img.shields.io/badge/LinkedIn-Nandhakumar_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://me.developers.google.com/u/117885705982936180625"><img src="https://img.shields.io/badge/Google_Developers-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers" /></a>
     <a href="mailto:smnk2006@gmail.com"><img src="https://img.shields.io/badge/Email-smnk2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://x.com/Nandhakuma54212"><img src="https://img.shields.io/badge/X-@Nandhakuma54212-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
     <a href="https://medium.com/@nandhakumarmurugan"><img src="https://img.shields.io/badge/Medium-@nandhakumarmurugan-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
@@ -19,12 +28,29 @@
 
   <br/>
 
-  <!-- Developer Illustration Graphic -->
+  <!-- Developer Illustration Artwork -->
   <p>
     <img src="https://raw.githubusercontent.com/smnk-infotech/smnk-infotech/main/assets/hero.jpg" width="680" alt="Developer Artwork" />
   </p>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line Divider" />
+
+---
+
+## 🌍 Google Ecosystem & Ambassador Credentials
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Student_Ambassador-GSP_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/KG_KITE_Google_Community-Lead-34A853?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini_AI-Ecosystem_Developer-8E44AD?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Play_Academy-Certified_Developer-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+</p>
+
+- 🌟 **Google Student Ambassador (GSP 2.0):** Lead & Task Tracker Representative at KGiSL Institute of Technology (KG KITE).
+- 🤖 **Google Gemini API Developer:** Deep integration of Gemini models into **Prema AI Study Companion**, **Prema Builds AI**, and **Android AI Search Hub**.
+- 🎓 **Google Play Academy Certification:** Certified in Android app distribution, Store optimization, and mobile app architecture.
 
 ---
 
@@ -35,8 +61,7 @@
 - 📱 **Mobile Engineering:** Native Android Development using Kotlin, Jetpack Compose, Coroutines, and Android SDK.
 - 🌐 **Full Stack Development:** High-performance web applications using Next.js 14 (App Router), React, TypeScript, Node.js & Firebase.
 - 🎓 **Education:** B.E. Computer Science & Cyber Security @ **KGiSL Institute of Technology (KG KITE)**.
-- 🌍 **Recognitions:** Google Student Ambassador (GSP 2.0) & Lead @ KG KITE Google Community.
-- 🇮🇳 **Social Impact:** Engineering deployed web infrastructure for students, educators, and charitable organizations across India.
+- 🇮🇳 **Social Impact:** Engineering deployed web infrastructure for students, educators, and charitable trusts across India.
 
 ---
 
@@ -47,6 +72,10 @@
 | 🧠 **[Prema AI Labs](https://premaailabs.tech/)** | Founder & Lead Architect | Next.js 14, React, TypeScript, Tailwind, Gemini API | 🌐 **[premaailabs.tech](https://premaailabs.tech/)** |
 | 🤝 **[Flyers Charitable Trust](https://flyerscharitabletrust.org/)** | Web Developer (SMNK Infotech) | HTML5, CSS3, JavaScript, Web Hosting | 🌐 **[flyerscharitabletrust.org](https://flyerscharitabletrust.org/)** |
 | ❤️ **[Jeeva Karangal Charitable Trust](https://jeevakarangal.org/)** | Web Developer (SMNK Infotech) | HTML5, CSS3, Responsive Architecture | 🌐 **[jeevakarangal.org](https://jeevakarangal.org/)** |
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line Divider" />
 
 ---
 
@@ -96,7 +125,15 @@ Python-based web application for executing automated AI workflows.
 
 ---
 
-## 🛠️ Technology Stack & Skills
+## 🛠️ Technology Stack & Official Logos
+
+### 🤖 AI, LLMs & Cloud Databases
+![Google Gemini](https://img.shields.io/badge/Google_Gemini_API-8E44AD?style=for-the-badge&logo=google&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🚀 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -117,24 +154,6 @@ Python-based web application for executing automated AI workflows.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🤖 AI, Cloud & Databases
-![Gemini API](https://img.shields.io/badge/Google_Gemini_API-8E44AD?style=for-the-badge&logo=google&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 🏆 Key Achievements
-
-- 🥇 Founder & CEO of **Prema AI Labs** (under **SMNK Infotech**)
-- 🌟 **Google Student Ambassador (GSP 2.0)** & Lead @ KG KITE Google Community
-- 🌐 Engineered Live Web Applications: [premaailabs.tech](https://premaailabs.tech/), [flyerscharitabletrust.org](https://flyerscharitabletrust.org/), [jeevakarangal.org](https://jeevakarangal.org/)
-- 💻 **39+ Published Repositories** on GitHub
-- 🎓 Certified Developer on [GUVI](https://www.guvi.in/smnk200626379) & [Google Play Academy](https://playacademy.exceedlms.com/profiles/nandhakumarmurugan93dd82c1)
-
 ---
 
 ## 📈 GitHub Analytics
@@ -146,10 +165,10 @@ Python-based web application for executing automated AI workflows.
 
 ---
 
-## 🤝 Connect & Contact Information
+## 🤝 Official Contact & Profile Directory
 
-| Channel | Link / Address |
-|---------|----------------|
+| Platform / Channel | Direct Profile Link |
+|--------------------|---------------------|
 | 🌐 **Official Website** | [premaailabs.tech](https://premaailabs.tech/) |
 | 💼 **LinkedIn** | [linkedin.com/in/nandhakumar-murugan-807a80286](https://www.linkedin.com/in/nandhakumar-murugan-807a80286/) |
 | 🌐 **Google Developers** | [me.developers.google.com/u/117885705982936180625](https://me.developers.google.com/u/117885705982936180625) |
@@ -162,7 +181,7 @@ Python-based web application for executing automated AI workflows.
 | 🚀 **GUVI Profile** | [guvi.in/smnk200626379](https://www.guvi.in/smnk200626379) |
 | 🎓 **Google Play Academy** | [playacademy.exceedlms.com](https://playacademy.exceedlms.com/profiles/nandhakumarmurugan93dd82c1) |
 | 🐙 **GitHub (Org)** | [github.com/smnk-infotech](https://github.com/smnk-infotech) |
-| 👤 **GitHub (Personal)** | [github.com/smnk2006](https://github.com/smnk2006) |
+| 👤 **GitHub (Personal)** | [github.com/smnk2006](https://github.com/smnk-infotech) |
 
 ---
 
