@@ -3,16 +3,23 @@
   <!-- 🌊 1. Dynamic Waving Gradient Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:9333EA&height=220&section=header&text=Nandhakumar%20M&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Founder%20%26%20CEO%20@%20Prema%20AI%20Labs%20%7C%20Google%20Student%20Ambassador&descSize=20&descAlign=50&descAlignY=70" width="100%" alt="Header Banner" />
 
-  <br/>
+  <br/><br/>
 
-  <!-- ⚡ 2. Dynamic Typing SVG Animation -->
+  <!-- 📸 2. User Real Profile Picture (Glowing Circular Frame) -->
+  <a href="https://github.com/smnk-infotech">
+    <img src="https://raw.githubusercontent.com/smnk-infotech/smnk-infotech/main/assets/profile.png" width="220" height="220" alt="Nandhakumar M" style="border-radius: 50%; border: 4px solid #6366F1; box-shadow: 0 10px 30px rgba(99, 102, 241, 0.5);" />
+  </a>
+
+  <br/><br/>
+
+  <!-- ⚡ 3. Dynamic Typing SVG Animation -->
   <a href="https://premaailabs.tech">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Nandhakumar+M+👋;Founder+%26+CEO+of+Prema+AI+Labs+🚀;Google+Student+Ambassador+🌐;Fullstack+AI+%26+Android+Developer+📱;Cyber+Security+Engineer+🛡️;Building+Tech+for+Students+%26+Communities+🇮🇳&font=Fira+Code&size=22&center=true&width=750&height=45&color=A855F7&vCenter=true" alt="Typing Banner" />
   </a>
 
   <br/><br/>
 
-  <!-- 🔗 3. Socials & Official Links Badges -->
+  <!-- 🔗 4. Socials & Official Links Badges -->
   <p align="center">
     <a href="https://premaailabs.tech/"><img src="https://img.shields.io/badge/Official_Website-premaailabs.tech-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="mailto:smnk2006@gmail.com"><img src="https://img.shields.io/badge/Personal_Email-smnk2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -25,7 +32,7 @@
     <a href="https://www.instagram.com/kgisl_google_community/"><img src="https://img.shields.io/badge/KG_KITE_Google_Community-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   </p>
 
-  <!-- 🎨 4. Centered Hero Artwork Illustration -->
+  <!-- 🎨 5. Developer Illustration Graphic -->
   <p align="center">
     <img src="https://raw.githubusercontent.com/smnk-infotech/smnk-infotech/main/assets/hero.jpg" width="680" alt="Developer Illustration" style="border-radius:14px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
   </p>
