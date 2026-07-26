@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- 🌊 1. Dynamic Waving Gradient Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:9333EA&height=220&section=header&text=Nandhakumar%20Murugan&fontSize=46&fontColor=ffffff&animation=twinkling&desc=Google%20Student%20Ambassador%20%7C%20AI%20%26%20Full%20Stack%20Developer&descSize=19&descAlign=50&descAlignY=70" width="100%" alt="Animated Header Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:9333EA&height=220&section=header&text=Nandhakumar%20Murugan&fontSize=46&fontColor=ffffff&animation=twinkling&desc=Google%20Student%20Ambassador%20%7C%20B.E.%20CS%20%26%20Cyber%20Security%20@%20KG%20KITE&descSize=19&descAlign=50&descAlignY=70" width="100%" alt="Animated Header Wave" />
 
   <br/><br/>
 
   <!-- ⚡ 2. Animated Typing Banner -->
   <a href="https://premaailabs.tech">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Google+Student+Ambassador+🌐;AI+%26+Full+Stack+Developer+🚀;Native+Android+Developer+(Kotlin)+📱;Cyber+Security+Student+@+KG+KITE+🛡️;Building+Tech+for+Students+%26+Communities+🇮🇳&font=Fira+Code&size=22&center=true&width=750&height=45&color=A855F7&vCenter=true" alt="Typing Banner Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Google+Student+Ambassador+🌐;AI+%26+Fullstack+Developer+🚀;Native+Android+Developer+(Kotlin)+📱;Cyber+Security+Student+@+KG+KITE+🛡️;Building+Tech+for+Students+%26+Communities+🇮🇳&font=Fira+Code&size=22&center=true&width=750&height=45&color=A855F7&vCenter=true" alt="Typing Banner Animation" />
   </a>
 
   <br/><br/>
@@ -15,7 +15,7 @@
   <!-- 🌟 3. Social Badges Bar -->
   <p align="center">
     <a href="https://me.developers.google.com/u/117885705982936180625"><img src="https://img.shields.io/badge/Google_Developers-Verified_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers" /></a>
-    <a href="https://premaailabs.tech/"><img src="https://img.shields.io/badge/Google_Gemini_AI-Prema_AI_Labs-8E44AD?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" /></a>
+    <a href="https://premaailabs.tech/"><img src="https://img.shields.io/badge/Google_Gemini_AI-Prema_AI-8E44AD?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" /></a>
     <a href="https://playacademy.exceedlms.com/profiles/nandhakumarmurugan93dd82c1"><img src="https://img.shields.io/badge/Google_Play_Academy-Certified-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play Academy" /></a>
     <a href="https://premaailabs.tech/"><img src="https://img.shields.io/badge/Website-premaailabs.tech-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
     <a href="https://www.linkedin.com/in/nandhakumar-murugan-807a80286/"><img src="https://img.shields.io/badge/LinkedIn-Nandhakumar_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -37,42 +37,63 @@
 
 ---
 
-## 🌍 Google Ecosystem & Ambassador Journey
+## 🎓 Student Developer & Google Student Ambassador Journey
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Google_Student_Ambassador-GSP_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/KG_KITE_Google_Community-Lead-34A853?style=for-the-badge&logo=instagram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini_AI-Ecosystem_Developer-8E44AD?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Play_Academy-Certified_Developer-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
-</p>
-
-- 🌟 **Google Student Ambassador (GSP 2.0):** Technical Lead & Representative at KGiSL Institute of Technology (KG KITE).
-- 🤖 **Google Gemini API Developer:** Integrating Gemini Flash & Pro models into **Prema AI Study Companion**, **Prema Builds AI**, and **Android AI Search Hub**.
-- 🎓 **Google Play Academy Certification:** Certified in Android app distribution, Store optimization, and mobile app architecture.
+- 🌟 **Google Student Ambassador (GSP 2.0):** Lead & Task Tracker Representative at KGiSL Institute of Technology (KG KITE).
+- 🎓 **Academic Specialization:** B.E. Computer Science & Cyber Security Student (`24UCY129`) @ KG KITE, Coimbatore.
+- 🤖 **Google Gemini AI Developer:** Building AI study tools, document solvers, and native mobile interfaces with Gemini API.
+- 💻 **Open Source Momentum:** **45+ Public Repositories** published covering Generative AI, Kotlin Android, Next.js 14, and Web Engineering.
 
 ---
 
-## 🧠 Prema AI Labs Platform & Webpage Sections
+## 🌐 Prema AI Platform — Complete Sitemap & Webpages
 
-| Section / Category | Description | Direct Web Link |
-|--------------------|-------------|-----------------|
-| 🧠 **Prema AI Labs** | Main Platform Overview | 🌐 **[premaailabs.tech](https://premaailabs.tech/)** |
-| 📦 **Products & APIs** | AI Tools, Models & API Endpoints | 🌐 **[Products & APIs](https://premaailabs.tech/#products)** |
-| 🔬 **Research & Weights** | Model Weights & AI Research Papers | 🌐 **[Research & Weights](https://premaailabs.tech/#research)** |
-| 📖 **Developer Docs** | API Documentation & SDK Guides | 🌐 **[Developer Docs](https://premaailabs.tech/#docs)** |
-| 💎 **Pricing & Subscriptions** | Subscription Plans & Student Tiers | 🌐 **[Pricing](https://premaailabs.tech/#pricing)** |
-| 📚 **Syllabus Resources** | Educational Materials & Study Guides | 🌐 **[Syllabus Resources](https://premaailabs.tech/#syllabus)** |
-| 🤝 **NGO Collaborations** | Social Impact Web Portals & Non-Profits | 🌐 **[NGO Collaborations](https://premaailabs.tech/#ngo)** |
+### 🌐 Public & Marketing Pages
+| Page Name | Description & Features | Live URL |
+|-----------|------------------------|----------|
+| **Home Page** | Main product landing, live AGI simulator & metrics | [`premaailabs.tech`](https://premaailabs.tech) |
+| **Features** | Interactive breakdown of voice, code & study companion tools | [`premaailabs.tech/features`](https://premaailabs.tech/features) |
+| **Languages** | Support matrix for 10+ Indic languages & dialects | [`premaailabs.tech/languages`](https://premaailabs.tech/languages) |
+| **Use Cases** | Beachhead segments for students, coders & universities | [`premaailabs.tech/use-cases`](https://premaailabs.tech/use-cases) |
+| **Pricing** | UPI subscription plans (₹49/week & ₹99/month) | [`premaailabs.tech/pricing`](https://premaailabs.tech/pricing) |
+| **About Us** | Student developer story, leadership profile & vision | [`premaailabs.tech/about`](https://premaailabs.tech/about) |
+| **Careers & Internships** | Open research internships & technical roles with application form | [`premaailabs.tech/careers`](https://premaailabs.tech/careers) |
+| **Syllabus Resources** | University syllabus notes, question banks & guides | [`premaailabs.tech/resources`](https://premaailabs.tech/resources) |
+| **NGO Collaborations** | CSR initiatives, rural classroom licenses & partnerships | [`premaailabs.tech/collaborations`](https://premaailabs.tech/collaborations) |
 
 ---
 
-## 🌐 Live Production Platforms & Deployed Sites
+### 🔬 Prema AI Research & Developer Portals
+| Page Name | Description & Features | Live URL |
+|-----------|------------------------|----------|
+| **Labs Overview** | Sovereign Indian AI research & infrastructure | [`premaailabs.tech/labs`](https://premaailabs.tech/labs) |
+| **Products & APIs** | Commercial APIs, SDKs & developer models | [`premaailabs.tech/labs/products`](https://premaailabs.tech/labs/products) |
+| **Research & Weights** | Model benchmarks, telemetry & open-weight releases | [`premaailabs.tech/labs/research`](https://premaailabs.tech/labs/research) |
+| **Prema Agents** | Specialized autonomous agentic AI hub & simulations | [`premaailabs.tech/labs/agents`](https://premaailabs.tech/labs/agents) |
+| **Ethics & Safety** | AI alignment, bias mitigation & data privacy standards | [`premaailabs.tech/labs/ethics`](https://premaailabs.tech/labs/ethics) |
 
-| Platform / Site | Technology Stack | Live URL |
-|-----------------|------------------|----------|
-| 🧠 **Prema AI Labs** | Next.js 14, React, TypeScript, Gemini API | 🌐 **[premaailabs.tech](https://premaailabs.tech/)** |
-| 🤝 **Flyers Charitable Trust** | HTML5, CSS3, JavaScript, Web Hosting | 🌐 **[flyerscharitabletrust.org](https://flyerscharitabletrust.org/)** |
-| ❤️ **Jeeva Karangal Trust** | HTML5, CSS3, Responsive Architecture | 🌐 **[jeevakarangal.org](https://jeevakarangal.org/)** |
+---
+
+### 📚 Documentation & Legal Pages
+| Page Name | Description & Features | Live URL |
+|-----------|------------------------|----------|
+| **Developer Docs** | API integration guides, WebSocket specs & tutorials | [`premaailabs.tech/docs`](https://premaailabs.tech/docs) |
+| **Terms of Service** | Terms, acceptable use & IP policies | [`premaailabs.tech/terms`](https://premaailabs.tech/terms) |
+| **Privacy Policy** | Data security, encryption & retention policy | [`premaailabs.tech/privacy`](https://premaailabs.tech/privacy) |
+| **Refund Policy** | Razorpay subscription refund rules & SLA | [`premaailabs.tech/refunds`](https://premaailabs.tech/refunds) |
+| **Customer Support** | Contact information, office address & support form | [`premaailabs.tech/contact`](https://premaailabs.tech/contact) |
+
+---
+
+### 🔐 User Account & Workspace Pages
+| Page Name | Description & Features | Live URL |
+|-----------|------------------------|----------|
+| **Sign In / Register** | Google OAuth & Email/Password login | [`premaailabs.tech/login`](https://premaailabs.tech/login) |
+| **AI Study Workspace** | Main chat workspace with code canvas & voice call | [`premaailabs.tech/`](https://premaailabs.tech/) |
+| **Study Planner** | Auto-generated exam schedules & study trackers | [`premaailabs.tech/planner`](https://premaailabs.tech/planner) |
+| **Flashcard Decks** | Interactive flip flashcards for revision | [`premaailabs.tech/flashcards`](https://premaailabs.tech/flashcards) |
+| **Saved Notes** | Organized study notes, code snippets & summaries | [`premaailabs.tech/notes`](https://premaailabs.tech/notes) |
+| **User Profile & Sync** | Profile settings, Moodle LMS sync & subscriptions | [`premaailabs.tech/profile`](https://premaailabs.tech/profile) |
 
 ---
 
@@ -80,10 +101,39 @@
 
 ---
 
-## 💼 Featured Open-Source Projects
+## 🕹️ Interactive Games Section
+
+<div align="center">
+
+  <h3>🎮 Play Games Directly on My GitHub!</h3>
+
+  <table align="center">
+    <tr>
+      <td align="center" width="50%">
+        <h4>🐍 Retro Classic Snake Game</h4>
+        <p>Play my custom open-source JavaScript Snake Game live in your browser!</p>
+        <a href="https://github.com/nandhakumar-murugan/snake-game-javascript">
+          <img src="https://img.shields.io/badge/PLAY_NOW-Retro_Snake_Game-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <h4>❌⭕ Tic-Tac-Toe Game</h4>
+        <p>Challenge the Tic-Tac-Toe bot or play a match in your browser!</p>
+        <a href="https://github.com/nandhakumar-murugan/snake-game-javascript">
+          <img src="https://img.shields.io/badge/PLAY_NOW-Tic--Tac--Toe-4285F4?style=for-the-badge&logo=gamepad&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
+## 💼 Flagship Open-Source Projects
 
 ### ⭐ Prema AI Labs Official Platform
-Production web platform for Prema AI learning & productivity ecosystem.  
+The flagship production web platform for the Prema AI learning & productivity ecosystem.  
 🌐 **Website:** [https://premaailabs.tech](https://premaailabs.tech)  
 **Tech Stack:** Next.js 14 • React • TypeScript • Tailwind CSS • Firebase • Gemini API  
 **Repository:** [nandhakumar-murugan/Prema.AI.Labs](https://github.com/nandhakumar-murugan/Prema.AI.Labs)
@@ -116,42 +166,6 @@ Machine learning classification model and custom dataset for distinguishing AI-g
 Conversational AI healthcare and guidance assistant for pet owners.  
 **Tech Stack:** Python • Flask • AI Chat API  
 **Repository:** [nandhakumar-murugan/petcare-ai-chatbot](https://github.com/nandhakumar-murugan/petcare-ai-chatbot)
-
----
-
-### ⭐ Autonomous AI Agent Application
-Python-based web application for executing automated AI workflows.  
-**Tech Stack:** Python • Flask • NLTK  
-**Repository:** [nandhakumar-murugan/ai-agent-python-app](https://github.com/nandhakumar-murugan/ai-agent-python-app)
-
----
-
-## 🕹️ Interactive Games Section
-
-<div align="center">
-
-  <h3>🎮 Play Games Directly on My GitHub!</h3>
-
-  <table align="center">
-    <tr>
-      <td align="center" width="50%">
-        <h4>🐍 Retro Classic Snake Game</h4>
-        <p>Play my custom open-source JavaScript Snake Game live in your browser!</p>
-        <a href="https://github.com/nandhakumar-murugan/snake-game-javascript">
-          <img src="https://img.shields.io/badge/PLAY_NOW-Retro_Snake_Game-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <h4>❌⭕ Tic-Tac-Toe Game</h4>
-        <p>Challenge the Tic-Tac-Toe bot or play a match in your browser!</p>
-        <a href="https://github.com/nandhakumar-murugan/snake-game-javascript">
-          <img src="https://img.shields.io/badge/PLAY_NOW-Tic--Tac--Toe-4285F4?style=for-the-badge&logo=gamepad&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-</div>
 
 ---
 
