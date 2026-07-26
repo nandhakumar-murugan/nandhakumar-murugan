@@ -42,7 +42,7 @@
 - 🌟 **Google Student Ambassador (GSP 2.0):** Lead & Task Tracker Representative at KGiSL Institute of Technology (KG KITE).
 - 🎓 **Academic Specialization:** B.E. Computer Science & Cyber Security Student (`24UCY129`) @ KG KITE, Coimbatore.
 - 🤖 **Google Gemini AI Developer:** Building AI study tools, document solvers, and native mobile interfaces with Gemini API.
-- 💻 **Open Source Momentum:** **45+ Public Repositories** published covering Generative AI, Kotlin Android, Next.js 14, and Web Engineering.
+- 💻 **Open Source Momentum:** **38+ Public Repositories** published covering Generative AI, Kotlin Android, Next.js 14, and Web Engineering.
 
 ---
 
@@ -130,23 +130,7 @@
 
 ---
 
-## 💼 Flagship Open-Source Projects
-
-### ⭐ Prema AI Labs Official Platform
-The flagship production web platform for the Prema AI learning & productivity ecosystem.  
-🌐 **Website:** [https://premaailabs.tech](https://premaailabs.tech)  
-**Tech Stack:** Next.js 14 • React • TypeScript • Tailwind CSS • Firebase • Gemini API  
-**Repository:** [nandhakumar-murugan/Prema.AI.Labs](https://github.com/nandhakumar-murugan/Prema.AI.Labs)
-
----
-
-### ⭐ AI Study Companion
-Cross-platform AI learning assistant featuring instant homework problem solving, PDF analysis, and automated quiz generation.  
-**Features:** AI Chat • PDF Document Analysis • Quiz Generator • Flashcards • Notes • Multi-language Support  
-**Tech Stack:** Flutter • ElectronJS • Firebase • Cloud Functions • Gemini API  
-**Repository:** [nandhakumar-murugan/ai-study-companion](https://github.com/nandhakumar-murugan/ai-study-companion)
-
----
+## 💼 Featured Public Open-Source Repositories
 
 ### ⭐ Android AI Search Hub v4
 Native Android AI application delivering unified AI search queries across models.  
@@ -166,6 +150,13 @@ Machine learning classification model and custom dataset for distinguishing AI-g
 Conversational AI healthcare and guidance assistant for pet owners.  
 **Tech Stack:** Python • Flask • AI Chat API  
 **Repository:** [nandhakumar-murugan/petcare-ai-chatbot](https://github.com/nandhakumar-murugan/petcare-ai-chatbot)
+
+---
+
+### ⭐ Autonomous AI Agent Application
+Python-based web application for executing automated AI workflows.  
+**Tech Stack:** Python • Flask • NLTK  
+**Repository:** [nandhakumar-murugan/ai-agent-python-app](https://github.com/nandhakumar-murugan/ai-agent-python-app)
 
 ---
 
