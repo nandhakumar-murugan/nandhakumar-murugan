@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- 🌊 1. Animated Capsule Render Header Wave -->
+  <!-- 🌊 1. Dynamic Waving Gradient Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:9333EA&height=220&section=header&text=Nandhakumar%20Murugan&fontSize=46&fontColor=ffffff&animation=twinkling&desc=Founder%20%26%20CEO%20@%20Prema%20AI%20Labs%20%7C%20Google%20Student%20Ambassador&descSize=19&descAlign=50&descAlignY=70" width="100%" alt="Animated Header Wave" />
 
   <br/><br/>
@@ -12,7 +12,7 @@
 
   <br/><br/>
 
-  <!-- 🌟 3. Social Badges -->
+  <!-- 🌟 3. Social Badges Bar -->
   <p align="center">
     <a href="https://me.developers.google.com/u/117885705982936180625"><img src="https://img.shields.io/badge/Google_Developers-Verified_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers" /></a>
     <a href="https://premaailabs.tech/"><img src="https://img.shields.io/badge/Google_Gemini_AI-Prema_AI_Labs-8E44AD?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" /></a>
@@ -34,6 +34,35 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line Divider" />
+
+---
+
+## 🕹️ Interactive Games Section
+
+<div align="center">
+
+  <h3>🎮 Play Games Directly on My GitHub!</h3>
+
+  <table align="center">
+    <tr>
+      <td align="center" width="50%">
+        <h4>🐍 Retro Classic Snake Game</h4>
+        <p>Play my custom open-source JavaScript Snake Game live in your browser!</p>
+        <a href="https://github.com/nandhakumar-murugan/snake-game-javascript">
+          <img src="https://img.shields.io/badge/PLAY_NOW-Retro_Snake_Game-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <h4>❌⭕ Tic-Tac-Toe Game</h4>
+        <p>Challenge the Tic-Tac-Toe bot or play a match in your browser!</p>
+        <a href="https://github.com/nandhakumar-murugan/snake-game-javascript">
+          <img src="https://img.shields.io/badge/PLAY_NOW-Tic--Tac--Toe-4285F4?style=for-the-badge&logo=gamepad&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 
@@ -131,7 +160,11 @@ Python-based web application for executing automated AI workflows.
 
 ---
 
-## 📈 GitHub Analytics & Activity
+## 📊 Animated Activity Graph & Analytics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandhakumar-murugan&theme=tokyonight" width="100%" alt="Animated Activity Graph" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nandhakumar-murugan&show_icons=true&theme=tokyonight" width="49%" alt="GitHub Stats" />
