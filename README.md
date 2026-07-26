@@ -8,11 +8,15 @@
   <b>Building AI-Powered Digital Infrastructure for Education, Productivity & Social Good</b>
 </p>
 
+<!-- Social Badges Header -->
 <p align="center">
   <a href="https://premaailabs.tech/"><img src="https://img.shields.io/badge/Official_Website-premaailabs.tech-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:24ucy129nandha@kgkite.ac.in"><img src="https://img.shields.io/badge/Email-24ucy129nandha%40kgkite.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/smnk-infotech"><img src="https://img.shields.io/badge/GitHub_Org-smnk--infotech-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/smnk2006"><img src="https://img.shields.io/badge/GitHub_Personal-smnk2006-24292E?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nandhakumar-murugan-807a80286/"><img src="https://img.shields.io/badge/LinkedIn-Nandhakumar_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://me.developers.google.com/u/117885705982936180625"><img src="https://img.shields.io/badge/Google_Developers-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+  <a href="https://x.com/Nandhakuma54212"><img src="https://img.shields.io/badge/X-@Nandhakuma54212-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://medium.com/@nandhakumarmurugan"><img src="https://img.shields.io/badge/Medium-@nandhakumarmurugan-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.instagram.com/itz_me__smnk/"><img src="https://img.shields.io/badge/Instagram-@itz__me____smnk-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/kgisl_google_community/"><img src="https://img.shields.io/badge/KG_KITE_Google_Community-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -29,7 +33,7 @@
 - 🌐 **Full Stack Developer:** Next.js 14, React, Node.js & Firebase
 - 🧠 **Focus Areas:** Generative AI, LLMs, Custom Fine-Tuning, AI Agents, and Cyber Security
 - 🎓 **Education:** B.E. Computer Science & Cyber Security @ **KGiSL Institute of Technology (KG KITE)**
-- 🌍 **Recognition:** Google Student Ambassador (GSP 2.0) & SRMC 2024 Technical Representative
+- 🌍 **Recognition:** Google Student Ambassador (GSP 2.0) & Lead @ KG KITE Google Community
 - 🇮🇳 **Impact:** Engineering digital platforms for students, educators, and charitable trusts across India
 
 ---
@@ -40,7 +44,7 @@
 |----------|------|------------|--------|
 | 🧠 **[Prema AI Labs](https://premaailabs.tech/)** | Founder & Lead Architect | Next.js 14, React, Tailwind, Gemini API | 🌐 [Live Platform](https://premaailabs.tech/) |
 | 🤝 **[Flyers Charitable Trust](https://flyerscharitabletrust.org/)** | Web Developer (SMNK Infotech) | HTML, CSS, JavaScript, Web Hosting | 🌐 [Live Website](https://flyerscharitabletrust.org/) |
-| ❤️ **[Jeeva Karangal Charitable Trust](https://jeevakarangal.org/)** | Web Developer (SMNK Infotech) | HTML, CSS, Web Architecture | 🌐 [Live Website](https://jeevakarangal.org/) |
+| ❤️ **[Jeeva Karangal Charitable Trust](https://jeevakarangal.org/)** | Web Developer (SMNK Infotech) | HTML, CSS, Responsive Web Design | 🌐 [Live Website](https://jeevakarangal.org/) |
 
 ---
 
@@ -113,9 +117,10 @@ Machine learning model and custom dataset for AI vs. Human content classificatio
 ## 🏆 Achievements & Badges
 
 🥇 Founder & CEO of **Prema AI Labs** (SMNK Infotech)  
-🌟 **Google Student Ambassador (GSP 2.0)**  
+🌟 **Google Student Ambassador (GSP 2.0)** & Lead @ KG KITE Google Community  
 🌐 Developed Live Web Platforms: [premaailabs.tech](https://premaailabs.tech/), [flyerscharitabletrust.org](https://flyerscharitabletrust.org/), [jeevakarangal.org](https://jeevakarangal.org/)  
 💻 **39+ Published Repositories** on GitHub  
+🎓 Certified Developer on [GUVI](https://www.guvi.in/smnk200626379) & [Google Play Academy](https://playacademy.exceedlms.com/profiles/nandhakumarmurugan93dd82c1)
 
 ---
 
@@ -134,10 +139,20 @@ Machine learning model and custom dataset for AI vs. Human content classificatio
 
 ## 🤝 Let's Connect
 
-🌐 **Official Website:** [https://premaailabs.tech](https://premaailabs.tech)  
-📧 **Email:** [24ucy129nandha@kgkite.ac.in](mailto:24ucy129nandha@kgkite.ac.in)  
-🐙 **GitHub (Org):** [https://github.com/smnk-infotech](https://github.com/smnk-infotech)  
-👤 **GitHub (Personal):** [https://github.com/smnk2006](https://github.com/smnk2006)  
+| Platform | Link |
+|----------|------|
+| 🌐 **Official Website** | [premaailabs.tech](https://premaailabs.tech/) |
+| 💼 **LinkedIn** | [linkedin.com/in/nandhakumar-murugan-807a80286](https://www.linkedin.com/in/nandhakumar-murugan-807a80286/) |
+| 🌐 **Google Developers** | [me.developers.google.com/u/117885705982936180625](https://me.developers.google.com/u/117885705982936180625) |
+| 📸 **Instagram (Personal)** | [@itz_me__smnk](https://www.instagram.com/itz_me__smnk/) |
+| 👥 **Instagram (KG KITE Google Community)** | [@kgisl_google_community](https://www.instagram.com/kgisl_google_community/) |
+| ✍️ **Medium** | [@nandhakumarmurugan](https://medium.com/@nandhakumarmurugan) |
+| 🐦 **X (Twitter)** | [@Nandhakuma54212](https://x.com/Nandhakuma54212) |
+| 🚀 **GUVI Profile** | [guvi.in/smnk200626379](https://www.guvi.in/smnk200626379) |
+| 🎓 **Google Play Academy** | [playacademy.exceedlms.com](https://playacademy.exceedlms.com/profiles/nandhakumarmurugan93dd82c1) |
+| 📧 **Email** | [24ucy129nandha@kgkite.ac.in](mailto:24ucy129nandha@kgkite.ac.in) |
+| 🐙 **GitHub (Org)** | [github.com/smnk-infotech](https://github.com/smnk-infotech) |
+| 👤 **GitHub (Personal)** | [github.com/smnk2006](https://github.com/smnk2006) |
 
 ---
 
