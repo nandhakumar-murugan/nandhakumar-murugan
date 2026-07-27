@@ -180,13 +180,15 @@ Python-based web application for executing automated AI workflows.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandhakumar-murugan&theme=tokyonight" width="100%" alt="Animated Activity Graph" />
 </p>
 
+<!-- Reliable, Ultra-Fast GitHub Stats Cards -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandhakumar-murugan&show_icons=true&theme=tokyonight" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhakumar-murugan&layout=compact&theme=tokyonight" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nandhakumar-murugan&show_icons=true&theme=tokyonight" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nandhakumar-murugan&layout=compact&theme=tokyonight" width="49%" alt="Top Languages" />
 </div>
 
 <br/>
 
+<!-- Dynamic Streak Stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nandhakumar-murugan&theme=tokyonight" width="98%" alt="Streak Stats Animation" />
 </p>
