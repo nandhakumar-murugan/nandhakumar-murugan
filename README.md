@@ -136,33 +136,6 @@
 
 ---
 
-## 🕹️ Interactive GitHub Games Arcade
-
-<div align="center">
-
-  <table align="center">
-    <tr>
-      <td align="center" width="50%">
-        <h4>🐍 Retro Classic Snake Game</h4>
-        <p>Play my open-source JavaScript Arcade Snake Game live in your browser!</p>
-        <a href="https://github.com/nandhakumar-murugan/snake-game-javascript">
-          <img src="https://img.shields.io/badge/PLAY_NOW-Retro_Snake_Game-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <h4>❌⭕ Tic-Tac-Toe Game</h4>
-        <p>Challenge the AI Tic-Tac-Toe bot live in your browser!</p>
-        <a href="https://github.com/nandhakumar-murugan/snake-game-javascript">
-          <img src="https://img.shields.io/badge/PLAY_NOW-Tic--Tac--Toe-4285F4?style=for-the-badge&logo=gamepad&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
----
-
 ## 💼 Featured Public Open-Source Repositories
 
 ### ⭐ Android AI Search Hub v4
