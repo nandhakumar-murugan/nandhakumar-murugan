@@ -12,6 +12,13 @@
 
   <br/><br/>
 
+  <!-- 👁️ Profile Views Counter Badge -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=nandhakumar-murugan&color=9333ea&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
+
+  <br/>
+
   <!-- 🌟 3. Social Badges Bar -->
   <p align="center">
     <a href="https://me.developers.google.com/u/117885705982936180625"><img src="https://img.shields.io/badge/Google_Developers-Verified_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers" /></a>
@@ -46,9 +53,20 @@
 
 ---
 
-## 🌐 Prema AI Platform — Complete Sitemap & Webpages
+## 🛠️ Languages, Frameworks & Developer Tools
 
-### 🌐 Public & Marketing Pages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,py,ts,js,nextjs,react,flutter,tailwind,html,css,figma,firebase,gcp,git,github,docker,linux,vscode,androidstudio&perline=10" alt="Tech Stack Icons" />
+</div>
+
+---
+
+## 🌐 Prema AI Platform — Interactive Sitemap & Webpages
+
+<details open>
+<summary><b>🌐 Public & Marketing Pages (Click to expand/collapse)</b></summary>
+<br/>
+
 | Page Name | Description & Features | Live URL |
 |-----------|------------------------|----------|
 | **Home Page** | Main product landing, live AGI simulator & metrics | [`premaailabs.tech`](https://premaailabs.tech) |
@@ -61,9 +79,14 @@
 | **Syllabus Resources** | University syllabus notes, question banks & guides | [`premaailabs.tech/resources`](https://premaailabs.tech/resources) |
 | **NGO Collaborations** | CSR initiatives, rural classroom licenses & partnerships | [`premaailabs.tech/collaborations`](https://premaailabs.tech/collaborations) |
 
----
+</details>
 
-### 🔬 Prema AI Research & Developer Portals
+<br/>
+
+<details>
+<summary><b>🔬 Prema AI Research & Developer Portals (Click to expand/collapse)</b></summary>
+<br/>
+
 | Page Name | Description & Features | Live URL |
 |-----------|------------------------|----------|
 | **Labs Overview** | Sovereign Indian AI research & infrastructure | [`premaailabs.tech/labs`](https://premaailabs.tech/labs) |
@@ -72,9 +95,14 @@
 | **Prema Agents** | Specialized autonomous agentic AI hub & simulations | [`premaailabs.tech/labs/agents`](https://premaailabs.tech/labs/agents) |
 | **Ethics & Safety** | AI alignment, bias mitigation & data privacy standards | [`premaailabs.tech/labs/ethics`](https://premaailabs.tech/labs/ethics) |
 
----
+</details>
 
-### 📚 Documentation & Legal Pages
+<br/>
+
+<details>
+<summary><b>📚 Documentation & Legal Pages (Click to expand/collapse)</b></summary>
+<br/>
+
 | Page Name | Description & Features | Live URL |
 |-----------|------------------------|----------|
 | **Developer Docs** | API integration guides, WebSocket specs & tutorials | [`premaailabs.tech/docs`](https://premaailabs.tech/docs) |
@@ -83,9 +111,14 @@
 | **Refund Policy** | Razorpay subscription refund rules & SLA | [`premaailabs.tech/refunds`](https://premaailabs.tech/refunds) |
 | **Customer Support** | Contact information, office address & support form | [`premaailabs.tech/contact`](https://premaailabs.tech/contact) |
 
----
+</details>
 
-### 🔐 User Account & Workspace Pages
+<br/>
+
+<details>
+<summary><b>🔐 User Account & Workspace Pages (Click to expand/collapse)</b></summary>
+<br/>
+
 | Page Name | Description & Features | Live URL |
 |-----------|------------------------|----------|
 | **Sign In / Register** | Google OAuth & Email/Password login | [`premaailabs.tech/login`](https://premaailabs.tech/login) |
@@ -95,30 +128,30 @@
 | **Saved Notes** | Organized study notes, code snippets & summaries | [`premaailabs.tech/notes`](https://premaailabs.tech/notes) |
 | **User Profile & Sync** | Profile settings, Moodle LMS sync & subscriptions | [`premaailabs.tech/profile`](https://premaailabs.tech/profile) |
 
+</details>
+
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line Divider" />
 
 ---
 
-## 🕹️ Interactive Games Section
+## 🕹️ Interactive GitHub Games Arcade
 
 <div align="center">
-
-  <h3>🎮 Play Games Directly on My GitHub!</h3>
 
   <table align="center">
     <tr>
       <td align="center" width="50%">
         <h4>🐍 Retro Classic Snake Game</h4>
-        <p>Play my custom open-source JavaScript Snake Game live in your browser!</p>
+        <p>Play my open-source JavaScript Arcade Snake Game live in your browser!</p>
         <a href="https://github.com/nandhakumar-murugan/snake-game-javascript">
           <img src="https://img.shields.io/badge/PLAY_NOW-Retro_Snake_Game-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
         </a>
       </td>
       <td align="center" width="50%">
         <h4>❌⭕ Tic-Tac-Toe Game</h4>
-        <p>Challenge the Tic-Tac-Toe bot or play a match in your browser!</p>
+        <p>Challenge the AI Tic-Tac-Toe bot live in your browser!</p>
         <a href="https://github.com/nandhakumar-murugan/snake-game-javascript">
           <img src="https://img.shields.io/badge/PLAY_NOW-Tic--Tac--Toe-4285F4?style=for-the-badge&logo=gamepad&logoColor=white" />
         </a>
