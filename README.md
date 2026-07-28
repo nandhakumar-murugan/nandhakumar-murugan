@@ -23,6 +23,7 @@
   <p align="center">
     <a href="https://me.developers.google.com/u/117885705982936180625"><img src="https://img.shields.io/badge/Google_Developers-Verified_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers" /></a>
     <a href="https://premaailabs.tech/"><img src="https://img.shields.io/badge/Google_Gemini_AI-Prema_AI-8E44AD?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" /></a>
+    <a href="https://www.kaggle.com/nandhakumar3108"><img src="https://img.shields.io/badge/Kaggle-nandhakumar3108-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
     <a href="https://playacademy.exceedlms.com/profiles/nandhakumarmurugan93dd82c1"><img src="https://img.shields.io/badge/Google_Play_Academy-Certified-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play Academy" /></a>
     <a href="https://premaailabs.tech/"><img src="https://img.shields.io/badge/Website-premaailabs.tech-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
     <a href="https://www.linkedin.com/in/nandhakumar-murugan-807a80286/"><img src="https://img.shields.io/badge/LinkedIn-Nandhakumar_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -49,6 +50,7 @@
 - 🌟 **Google Student Ambassador (GSP 2.0):** Lead & Task Tracker Representative at KGiSL Institute of Technology (KG KITE).
 - 🎓 **Academic Specialization:** B.E. Computer Science & Cyber Security Student (`24UCY129`) @ KG KITE, Coimbatore.
 - 🤖 **Google Gemini AI Developer:** Building AI study tools, document solvers, and native mobile interfaces with Gemini API.
+- 📊 **Kaggle Data Science & AI Contributor:** Machine learning datasets, notebooks, and AI model evaluation ([@nandhakumar3108](https://www.kaggle.com/nandhakumar3108)).
 - 💻 **Open Source Momentum:** **38+ Public Repositories** published covering Generative AI, Kotlin Android, Next.js 14, and Web Engineering.
 
 ---
@@ -200,6 +202,7 @@ Python-based web application for executing automated AI workflows.
 | Platform / Channel | Direct Profile Link |
 |--------------------|---------------------|
 | 🌐 **Official Website** | [premaailabs.tech](https://premaailabs.tech/) |
+| 📊 **Kaggle Profile** | [kaggle.com/nandhakumar3108](https://www.kaggle.com/nandhakumar3108) |
 | 💼 **LinkedIn** | [linkedin.com/in/nandhakumar-murugan-807a80286](https://www.linkedin.com/in/nandhakumar-murugan-807a80286/) |
 | 🌐 **Google Developers** | [me.developers.google.com/u/117885705982936180625](https://me.developers.google.com/u/117885705982936180625) |
 | 📧 **Personal Email** | [smnk2006@gmail.com](mailto:smnk2006@gmail.com) |
