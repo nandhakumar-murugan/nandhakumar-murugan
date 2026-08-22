@@ -45,13 +45,42 @@
 
 ---
 
+## 🌟 Flagship Featured Project
+
+### 🌐 [The Google & Alphabet Mega-Ecosystem Atlas (10,263+ Websites)](https://github.com/nandhakumar-murugan/google-ecosystem-atlas)
+
+<p align="center">
+  <a href="https://nandhakumar-murugan.github.io/google-ecosystem-atlas/">
+    <img src="https://raw.githubusercontent.com/nandhakumar-murugan/google-ecosystem-atlas/main/assets/banner.png" width="100%" alt="Google Ecosystem Atlas Showcase Banner" />
+  </a>
+</p>
+
+> **The definitive, planetary-scale open directory and search explorer cataloging 10,263+ official Google and Alphabet websites, products, developer APIs, student ambassador chapters, and frontier AI research labs across 196 sovereign nations.**
+
+- 🔗 **Live Web App:** [https://nandhakumar-murugan.github.io/google-ecosystem-atlas/](https://nandhakumar-murugan.github.io/google-ecosystem-atlas/)
+- 🐙 **Repository:** [nandhakumar-murugan/google-ecosystem-atlas](https://github.com/nandhakumar-murugan/google-ecosystem-atlas)
+- 📊 **Scale:** 10,263+ Verified Websites • 196 Nations • 7,198+ GDSC Chapters • 40 Frontier AI Labs (Gemini, DeepMind, AlphaFold 3)
+- ⚡ **Tech Stack:** Material Design 3, Virtual Pagination, Client-Side Search Engine, Schema.org Knowledge Graph
+
+---
+
+## 🏆 Earned GitHub Achievements
+
+<div align="center">
+  <a href="https://github.com/nandhakumar-murugan?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=nandhakumar-murugan&theme=radical&no-frame=false&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
 ## 🎓 Student Developer & Google Student Ambassador Journey
 
-- 🌟 **Google Student Ambassador (GSP 2.0):** Lead & Task Tracker Representative at KGiSL Institute of Technology (KG KITE).
+- 🌟 **Google Student Ambassador (GSA):** Lead & Campus Representative at KGiSL Institute of Technology (KG KITE).
 - 🎓 **Academic Specialization:** B.E. Computer Science & Cyber Security Student (`24UCY129`) @ KG KITE, Coimbatore.
-- 🤖 **Google Gemini AI Developer:** Building AI study tools, document solvers, and native mobile interfaces with Gemini API.
-- 📊 **Kaggle Data Science & AI Contributor:** Machine learning datasets, notebooks, and AI model evaluation ([@nandhakumar3108](https://www.kaggle.com/nandhakumar3108)).
-- 💻 **Open Source Momentum:** **38+ Public Repositories** published covering Generative AI, Kotlin Android, Next.js 14, and Web Engineering.
+- 🤖 **Google Gemini AI & DeepMind Research:** Building planetary search tools, vernacular AI, and agentic workflows.
+- 📊 **Kaggle Contributor:** Data science datasets, notebooks, and AI model evaluations ([@nandhakumar3108](https://www.kaggle.com/nandhakumar3108)).
+- 💻 **Open Source Momentum:** **75+ Repositories** published covering Generative AI, Cloud Infrastructure, and Cyber Security.
 
 ---
 
