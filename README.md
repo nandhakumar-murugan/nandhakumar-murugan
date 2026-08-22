@@ -140,31 +140,67 @@
 
 ## 💼 Featured Public Open-Source Repositories
 
-### ⭐ Android AI Search Hub v4
-Native Android AI application delivering unified AI search queries across models.  
-**Tech Stack:** Kotlin • Jetpack Compose • StateFlow • Android SDK • Gradle  
-**Repository:** [nandhakumar-murugan/android-ai-search-hub-v4](https://github.com/nandhakumar-murugan/android-ai-search-hub-v4)
+### ⚡ [Gemini Antigravity Bridge](https://github.com/nandhakumar-murugan/gemini-antigravity-bridge)
+> **Autonomous Local AI Bridge via Model Context Protocol (MCP)**  
+> Autonomous bridge connecting Google Gemini Spark & Cloud AI directly to your local machine. Features automated file creation, terminal execution, and subagent orchestration — all from a single lightweight server.  
+> **Tech Stack:** `Python` • `MCP` • `Google Cloud` • `Gemini API` • `Autonomous AI Agents` • `Ngrok`  
+> **Repository:** [nandhakumar-murugan/gemini-antigravity-bridge](https://github.com/nandhakumar-murugan/gemini-antigravity-bridge)
 
 ---
 
-### ⭐ AI Human Content Detector
-Machine learning classification model and custom dataset for distinguishing AI-generated text from human writing.  
-**Tech Stack:** Python • Machine Learning • CSV Dataset  
-**Repository:** [nandhakumar-murugan/ai-human-content-detector](https://github.com/nandhakumar-murugan/ai-human-content-detector)
+### 🪟 [Windows Context MCP](https://github.com/nandhakumar-murugan/windows-context-mcp)
+> **Windows OS System Telemetry & Automation Server**  
+> Model Context Protocol (MCP) server providing rich OS-level telemetry, active window monitoring, process management, and local filesystem context for AI agents and LLMs.  
+> **Tech Stack:** `TypeScript` • `Node.js` • `Model Context Protocol` • `Windows API` • `Telemetry`  
+> **Repository:** [nandhakumar-murugan/windows-context-mcp](https://github.com/nandhakumar-murugan/windows-context-mcp)
 
 ---
 
-### ⭐ PetCare AI Chatbot
-Conversational AI healthcare and guidance assistant for pet owners.  
-**Tech Stack:** Python • Flask • AI Chat API  
-**Repository:** [nandhakumar-murugan/petcare-ai-chatbot](https://github.com/nandhakumar-murugan/petcare-ai-chatbot)
+### 🌾 [AgriTrade — Blockchain Agricultural Supply Chain](https://github.com/nandhakumar-murugan/Next-Gen-Agricultural-Supply-Chain-on-Blockchain)
+> **Decentralized Crop Provenance & Fair Marketplace**  
+> Next-generation agricultural supply chain on Blockchain featuring Ethereum Solidity smart contracts, transparent crop tracking, and fair pricing mechanisms for farmers.  
+> **Tech Stack:** `Solidity` • `JavaScript` • `Ethereum` • `Smart Contracts` • `Web3` • `DApp`  
+> **Repository:** [nandhakumar-murugan/Next-Gen-Agricultural-Supply-Chain-on-Blockchain](https://github.com/nandhakumar-murugan/Next-Gen-Agricultural-Supply-Chain-on-Blockchain)
 
 ---
 
-### ⭐ Autonomous AI Agent Application
-Python-based web application for executing automated AI workflows.  
-**Tech Stack:** Python • Flask • NLTK  
-**Repository:** [nandhakumar-murugan/ai-agent-python-app](https://github.com/nandhakumar-murugan/ai-agent-python-app)
+### 🛡️ [Command Injection Whitelisting Lab](https://github.com/nandhakumar-murugan/command-injection-whitelisting-lab)
+> **SC&RE Lab: CWE-78 Prevention & Security Static Analysis**  
+> Hands-on cybersecurity research experiment demonstrating CWE-78 command injection detection, input validation via strict whitelisting in Python Flask, and Bandit static analysis.  
+> **Tech Stack:** `Python` • `Flask` • `Bandit` • `Cybersecurity` • `CWE-78` • `Application Security`  
+> **Repository:** [nandhakumar-murugan/command-injection-whitelisting-lab](https://github.com/nandhakumar-murugan/command-injection-whitelisting-lab)
+
+---
+
+### 🎓 [Campus AI Copilot Extension](https://github.com/nandhakumar-murugan/campus-ai-copilot-extension)
+> **Intelligent Study & Research Browser Companion**  
+> Chrome extension providing AI-assisted learning, assignment helpers, real-time research assistance, and smart text summaries directly in the browser for students.  
+> **Tech Stack:** `JavaScript` • `Chrome Extension Manifest v3` • `EdTech` • `AI Copilot`  
+> **Repository:** [nandhakumar-murugan/campus-ai-copilot-extension](https://github.com/nandhakumar-murugan/campus-ai-copilot-extension)
+
+---
+
+### 📱 [Android AI Search Hub v4](https://github.com/nandhakumar-murugan/android-ai-search-hub-v4)
+> **Multi-Engine AI Query Aggregator for Android**  
+> Native Android application delivering unified multi-model AI search results, real-time query summarization, and clean Jetpack Compose Material 3 UI.  
+> **Tech Stack:** `Kotlin` • `Jetpack Compose` • `StateFlow` • `Android SDK` • `Coroutines`  
+> **Repository:** [nandhakumar-murugan/android-ai-search-hub-v4](https://github.com/nandhakumar-murugan/android-ai-search-hub-v4)
+
+---
+
+### 🔍 [AI vs Human Content Detector](https://github.com/nandhakumar-murugan/ai-human-content-detector)
+> **Machine Learning NLP Text Classification Application & Dataset**  
+> NLP text classification tool and custom dataset to reliably distinguish between LLM-generated content and human-written text with linguistic feature analysis.  
+> **Tech Stack:** `Python` • `Machine Learning` • `NLP` • `Flask` • `Scikit-Learn`  
+> **Repository:** [nandhakumar-murugan/ai-human-content-detector](https://github.com/nandhakumar-murugan/ai-human-content-detector)
+
+---
+
+### 💬 [React Realtime Chat App](https://github.com/nandhakumar-murugan/react-chat-app)
+> **Full-Stack Realtime Messaging & Room Channel Application**  
+> Scalable full-stack chat platform built with React, TypeScript, Node.js Express, and WebSockets featuring instant messaging, presence indicators, and channel rooms.  
+> **Tech Stack:** `React` • `TypeScript` • `Node.js` • `Express` • `WebSockets` • `Tailwind CSS`  
+> **Repository:** [nandhakumar-murugan/react-chat-app](https://github.com/nandhakumar-murugan/react-chat-app)
 
 ---
 
