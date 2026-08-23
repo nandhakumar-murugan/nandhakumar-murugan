@@ -62,25 +62,6 @@
 - 📊 **Scale:** 10,263+ Verified Websites • 196 Nations • 7,198+ GDSC Chapters • 40 Frontier AI Labs (Gemini, DeepMind, AlphaFold 3)
 - ⚡ **Tech Stack:** Material Design 3, Virtual Pagination, Client-Side Search Engine, Schema.org Knowledge Graph
 
----
-
-## 🏆 Earned GitHub Achievements & Badges
-
-<div align="center">
-
-| <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-silver.png" width="105px" /><br/><sub><b>Pair Extraordinaire <sup>x2</sup></b></sub> | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-silver.png" width="105px" /><br/><sub><b>Pull Shark <sup>x2</sup></b></sub> | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="105px" /><br/><sub><b>YOLO</b></sub> | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="105px" /><br/><sub><b>Quickdraw</b></sub> | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-bronze.png" width="105px" /><br/><sub><b>Galaxy Brain</b></sub> | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-bronze.png" width="105px" /><br/><sub><b>Starstruck</b></sub> |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-
-</div>
-
-<p align="center">
-  <a href="https://github.com/nandhakumar-murugan?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=nandhakumar-murugan&theme=radical&no-frame=false&no-bg=true&margin-w=10" alt="GitHub Dynamic Trophies" />
-  </a>
-</p>
-
----
-
 ## 🎓 Student Developer & Google Student Ambassador Journey
 
 - 🌟 **Google Student Ambassador (GSA):** Lead & Campus Representative at KGiSL Institute of Technology (KG KITE).
