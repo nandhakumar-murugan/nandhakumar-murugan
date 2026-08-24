@@ -1,6 +1,12 @@
 <div align="center">
 
+  <!-- 🏷️ Explicit SEO Heading for Google & Search Crawlers -->
+  <h1 align="center">Nandhakumar Murugan</h1>
+  <p align="center"><b>Founder & Lead AI Engineer @ Prema AI Labs | Google Student Ambassador | B.E. CS & Cyber Security @ KG KITE</b></p>
+  <p align="center"><i>Official GitHub Profile of Nandhakumar Murugan (smnk-infotech)</i></p>
+
   <!-- 🌊 1. Dynamic Waving Gradient Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:9333EA&height=220&section=header&text=Nandhakumar%20Murugan&fontSize=46&fontColor=ffffff&animation=twinkling&desc=Google%20Student%20Ambassador%20%7C%20B.E.%20CS%20%26%20Cyber%20Security%20@%20KG%20KITE&descSize=19&descAlign=50&descAlignY=70" width="100%" alt="Nandhakumar Murugan Header" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:9333EA&height=220&section=header&text=Nandhakumar%20Murugan&fontSize=46&fontColor=ffffff&animation=twinkling&desc=Google%20Student%20Ambassador%20%7C%20B.E.%20CS%20%26%20Cyber%20Security%20@%20KG%20KITE&descSize=19&descAlign=50&descAlignY=70" width="100%" alt="Animated Header Wave" />
 
   <br/><br/>
