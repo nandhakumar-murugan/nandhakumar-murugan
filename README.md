@@ -232,13 +232,20 @@
 ## 📊 Animated Activity Graph & Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandhakumar-murugan&theme=tokyonight" width="100%" alt="Animated Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandhakumar-murugan&theme=tokyonight&area=true&hide_border=true&radius=16" width="100%" alt="Animated Activity Graph" />
 </p>
 
-<!-- Reliable, Ultra-Fast GitHub Stats Cards -->
+<!-- 🌟 High-Uptime Dynamic Profile Analytics & Language Cards -->
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nandhakumar-murugan&show_icons=true&theme=tokyonight" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nandhakumar-murugan&layout=compact&theme=tokyonight" width="49%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandhakumar-murugan&theme=tokyonight" width="49%" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nandhakumar-murugan&theme=tokyonight" width="49%" alt="Repos per Language" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nandhakumar-murugan&theme=tokyonight" width="49%" alt="GitHub Stats Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nandhakumar-murugan&theme=tokyonight" width="49%" alt="Most Commit Language" />
 </div>
 
 <br/>
