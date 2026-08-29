@@ -19,6 +19,9 @@
     <a href="https://cla.developers.google.com/">
       <img src="https://img.shields.io/badge/Google_Individual_CLA-Active_on_File-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google CLA Active" />
     </a>
+    <a href="https://pypi.org/project/prema-agentshield/">
+      <img src="https://img.shields.io/pypi/v/prema-agentshield?color=3776AB&label=PyPI%3A%20prema-agentshield&logo=pypi&logoColor=white&style=for-the-badge" alt="PyPI Package" />
+    </a>
     <a href="https://nandhakumar-murugan.github.io/google-ecosystem-atlas/">
       <img src="https://img.shields.io/badge/Atlas_Live-10%2C263%2B_Google_Products-FBBC04?style=for-the-badge&logo=googlecloud&logoColor=black" alt="Atlas Live" />
     </a>
