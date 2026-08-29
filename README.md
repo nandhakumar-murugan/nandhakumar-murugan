@@ -2,7 +2,7 @@
 
   <!-- 🏷️ Explicit SEO Heading for Google & Search Crawlers -->
   <h1 align="center">Nandhakumar Murugan</h1>
-  <p align="center"><b>Founder & Lead AI Engineer @ Prema AI Labs | Google Student Ambassador | B.E. CS & Cyber Security @ KG KITE</b></p>
+  <p align="center"><b>Google Student Ambassador | AI & Cyber Security Engineer | B.E. CS & Cyber Security @ KG KITE</b></p>
   <p align="center"><i>Official GitHub Profile of Nandhakumar Murugan (smnk-infotech)</i></p>
 
   <!-- 🌊 1. Dynamic Waving Gradient Header Banner -->
@@ -19,9 +19,6 @@
     <a href="https://cla.developers.google.com/">
       <img src="https://img.shields.io/badge/Google_Individual_CLA-Active_on_File-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google CLA Active" />
     </a>
-    <a href="https://pypi.org/project/prema-agentshield/">
-      <img src="https://img.shields.io/pypi/v/prema-agentshield?color=3776AB&label=PyPI%3A%20prema-agentshield&logo=pypi&logoColor=white&style=for-the-badge" alt="PyPI Package" />
-    </a>
     <a href="https://nandhakumar-murugan.github.io/google-ecosystem-atlas/">
       <img src="https://img.shields.io/badge/Atlas_Live-10%2C263%2B_Google_Products-FBBC04?style=for-the-badge&logo=googlecloud&logoColor=black" alt="Atlas Live" />
     </a>
@@ -30,7 +27,7 @@
   <br/>
 
   <!-- ⚡ 2. Animated Typing Banner -->
-  <a href="https://premaailabs.tech">
+  <a href="https://github.com/nandhakumar-murugan">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Google+Student+Ambassador+🌐;AI+%26+Fullstack+Developer+🚀;Native+Android+Developer+(Kotlin)+📱;Cyber+Security+Student+@+KG+KITE+🛡️;Building+Tech+for+Students+%26+Communities+🇮🇳&font=Fira+Code&size=22&center=true&width=750&height=45&color=A855F7&vCenter=true" alt="Typing Banner Animation" />
   </a>
 
@@ -48,10 +45,8 @@
     <a href="https://cla.developers.google.com/"><img src="https://img.shields.io/badge/Google_CLA-Verified_%26_Signed-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google CLA" /></a>
     <a href="https://github.com/google-gemini/cookbook/pull/1352"><img src="https://img.shields.io/badge/Google_Gemini_Cookbook-PR_%231352-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini Cookbook PR #1352" /></a>
     <a href="https://me.developers.google.com/u/117885705982936180625"><img src="https://img.shields.io/badge/Google_Developers-Verified_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers" /></a>
-    <a href="https://premaailabs.tech/"><img src="https://img.shields.io/badge/Google_Gemini_AI-Prema_AI-8E44AD?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" /></a>
     <a href="https://www.kaggle.com/nandhakumar3108"><img src="https://img.shields.io/badge/Kaggle-nandhakumar3108-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
     <a href="https://playacademy.exceedlms.com/profiles/nandhakumarmurugan93dd82c1"><img src="https://img.shields.io/badge/Google_Play_Academy-Certified-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play Academy" /></a>
-    <a href="https://premaailabs.tech/"><img src="https://img.shields.io/badge/Website-premaailabs.tech-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
     <a href="https://www.linkedin.com/in/nandhakumar-murugan-807a80286/"><img src="https://img.shields.io/badge/LinkedIn-Nandhakumar_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:smnk2006@gmail.com"><img src="https://img.shields.io/badge/Email-smnk2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://x.com/Nandhakuma54212"><img src="https://img.shields.io/badge/X-@Nandhakuma54212-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -106,7 +101,7 @@
 
 ---
 
-## 🌐 Prema AI Platform — Interactive Sitemap & Webpages
+## 🌐 Nandhakumar Murugan Platform — Interactive Sitemap & Webpages
 
 <details open>
 <summary><b>🌐 Public & Marketing Pages (Click to expand/collapse)</b></summary>
@@ -114,31 +109,31 @@
 
 | Page Name | Description & Features | Live URL |
 |-----------|------------------------|----------|
-| **Home Page** | Main product landing, live AGI simulator & metrics | [`premaailabs.tech`](https://premaailabs.tech) |
-| **Features** | Interactive breakdown of voice, code & study companion tools | [`premaailabs.tech/features`](https://premaailabs.tech/features) |
-| **Languages** | Support matrix for 10+ Indic languages & dialects | [`premaailabs.tech/languages`](https://premaailabs.tech/languages) |
-| **Use Cases** | Beachhead segments for students, coders & universities | [`premaailabs.tech/use-cases`](https://premaailabs.tech/use-cases) |
-| **Pricing** | UPI subscription plans (₹49/week & ₹99/month) | [`premaailabs.tech/pricing`](https://premaailabs.tech/pricing) |
-| **About Us** | Student developer story, leadership profile & vision | [`premaailabs.tech/about`](https://premaailabs.tech/about) |
-| **Careers & Internships** | Open research internships & technical roles with application form | [`premaailabs.tech/careers`](https://premaailabs.tech/careers) |
-| **Syllabus Resources** | University syllabus notes, question banks & guides | [`premaailabs.tech/resources`](https://premaailabs.tech/resources) |
-| **NGO Collaborations** | CSR initiatives, rural classroom licenses & partnerships | [`premaailabs.tech/collaborations`](https://premaailabs.tech/collaborations) |
+| **Home Page** | Main product landing, live AGI simulator & metrics | [`premaailabs.tech`](https://github.com/nandhakumar-murugan) |
+| **Features** | Interactive breakdown of voice, code & study companion tools | [`premaailabs.tech/features`](https://github.com/nandhakumar-murugan/features) |
+| **Languages** | Support matrix for 10+ Indic languages & dialects | [`premaailabs.tech/languages`](https://github.com/nandhakumar-murugan/languages) |
+| **Use Cases** | Beachhead segments for students, coders & universities | [`premaailabs.tech/use-cases`](https://github.com/nandhakumar-murugan/use-cases) |
+| **Pricing** | UPI subscription plans (₹49/week & ₹99/month) | [`premaailabs.tech/pricing`](https://github.com/nandhakumar-murugan/pricing) |
+| **About Us** | Student developer story, leadership profile & vision | [`premaailabs.tech/about`](https://github.com/nandhakumar-murugan/about) |
+| **Careers & Internships** | Open research internships & technical roles with application form | [`premaailabs.tech/careers`](https://github.com/nandhakumar-murugan/careers) |
+| **Syllabus Resources** | University syllabus notes, question banks & guides | [`premaailabs.tech/resources`](https://github.com/nandhakumar-murugan/resources) |
+| **NGO Collaborations** | CSR initiatives, rural classroom licenses & partnerships | [`premaailabs.tech/collaborations`](https://github.com/nandhakumar-murugan/collaborations) |
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>🔬 Prema AI Research & Developer Portals (Click to expand/collapse)</b></summary>
+<summary><b>🔬 Nandhakumar Murugan Research & Developer Portals (Click to expand/collapse)</b></summary>
 <br/>
 
 | Page Name | Description & Features | Live URL |
 |-----------|------------------------|----------|
-| **Labs Overview** | Sovereign Indian AI research & infrastructure | [`premaailabs.tech/labs`](https://premaailabs.tech/labs) |
-| **Products & APIs** | Commercial APIs, SDKs & developer models | [`premaailabs.tech/labs/products`](https://premaailabs.tech/labs/products) |
-| **Research & Weights** | Model benchmarks, telemetry & open-weight releases | [`premaailabs.tech/labs/research`](https://premaailabs.tech/labs/research) |
-| **Prema Agents** | Specialized autonomous agentic AI hub & simulations | [`premaailabs.tech/labs/agents`](https://premaailabs.tech/labs/agents) |
-| **Ethics & Safety** | AI alignment, bias mitigation & data privacy standards | [`premaailabs.tech/labs/ethics`](https://premaailabs.tech/labs/ethics) |
+| **Labs Overview** | Sovereign Indian AI research & infrastructure | [`premaailabs.tech/labs`](https://github.com/nandhakumar-murugan/labs) |
+| **Products & APIs** | Commercial APIs, SDKs & developer models | [`premaailabs.tech/labs/products`](https://github.com/nandhakumar-murugan/labs/products) |
+| **Research & Weights** | Model benchmarks, telemetry & open-weight releases | [`premaailabs.tech/labs/research`](https://github.com/nandhakumar-murugan/labs/research) |
+| **Prema Agents** | Specialized autonomous agentic AI hub & simulations | [`premaailabs.tech/labs/agents`](https://github.com/nandhakumar-murugan/labs/agents) |
+| **Ethics & Safety** | AI alignment, bias mitigation & data privacy standards | [`premaailabs.tech/labs/ethics`](https://github.com/nandhakumar-murugan/labs/ethics) |
 
 </details>
 
@@ -150,11 +145,11 @@
 
 | Page Name | Description & Features | Live URL |
 |-----------|------------------------|----------|
-| **Developer Docs** | API integration guides, WebSocket specs & tutorials | [`premaailabs.tech/docs`](https://premaailabs.tech/docs) |
-| **Terms of Service** | Terms, acceptable use & IP policies | [`premaailabs.tech/terms`](https://premaailabs.tech/terms) |
-| **Privacy Policy** | Data security, encryption & retention policy | [`premaailabs.tech/privacy`](https://premaailabs.tech/privacy) |
-| **Refund Policy** | Razorpay subscription refund rules & SLA | [`premaailabs.tech/refunds`](https://premaailabs.tech/refunds) |
-| **Customer Support** | Contact information, office address & support form | [`premaailabs.tech/contact`](https://premaailabs.tech/contact) |
+| **Developer Docs** | API integration guides, WebSocket specs & tutorials | [`premaailabs.tech/docs`](https://github.com/nandhakumar-murugan/docs) |
+| **Terms of Service** | Terms, acceptable use & IP policies | [`premaailabs.tech/terms`](https://github.com/nandhakumar-murugan/terms) |
+| **Privacy Policy** | Data security, encryption & retention policy | [`premaailabs.tech/privacy`](https://github.com/nandhakumar-murugan/privacy) |
+| **Refund Policy** | Razorpay subscription refund rules & SLA | [`premaailabs.tech/refunds`](https://github.com/nandhakumar-murugan/refunds) |
+| **Customer Support** | Contact information, office address & support form | [`premaailabs.tech/contact`](https://github.com/nandhakumar-murugan/contact) |
 
 </details>
 
@@ -166,12 +161,12 @@
 
 | Page Name | Description & Features | Live URL |
 |-----------|------------------------|----------|
-| **Sign In / Register** | Google OAuth & Email/Password login | [`premaailabs.tech/login`](https://premaailabs.tech/login) |
-| **AI Study Workspace** | Main chat workspace with code canvas & voice call | [`premaailabs.tech/`](https://premaailabs.tech/) |
-| **Study Planner** | Auto-generated exam schedules & study trackers | [`premaailabs.tech/planner`](https://premaailabs.tech/planner) |
-| **Flashcard Decks** | Interactive flip flashcards for revision | [`premaailabs.tech/flashcards`](https://premaailabs.tech/flashcards) |
-| **Saved Notes** | Organized study notes, code snippets & summaries | [`premaailabs.tech/notes`](https://premaailabs.tech/notes) |
-| **User Profile & Sync** | Profile settings, Moodle LMS sync & subscriptions | [`premaailabs.tech/profile`](https://premaailabs.tech/profile) |
+| **Sign In / Register** | Google OAuth & Email/Password login | [`premaailabs.tech/login`](https://github.com/nandhakumar-murugan/login) |
+| **AI Study Workspace** | Main chat workspace with code canvas & voice call | [`premaailabs.tech/`](https://github.com/nandhakumar-murugan/) |
+| **Study Planner** | Auto-generated exam schedules & study trackers | [`premaailabs.tech/planner`](https://github.com/nandhakumar-murugan/planner) |
+| **Flashcard Decks** | Interactive flip flashcards for revision | [`premaailabs.tech/flashcards`](https://github.com/nandhakumar-murugan/flashcards) |
+| **Saved Notes** | Organized study notes, code snippets & summaries | [`premaailabs.tech/notes`](https://github.com/nandhakumar-murugan/notes) |
+| **User Profile & Sync** | Profile settings, Moodle LMS sync & subscriptions | [`premaailabs.tech/profile`](https://github.com/nandhakumar-murugan/profile) |
 
 </details>
 
@@ -287,7 +282,7 @@
 
 | Platform / Channel | Direct Profile Link |
 |--------------------|---------------------|
-| 🌐 **Official Website** | [premaailabs.tech](https://premaailabs.tech/) |
+| 🌐 **Official Website** | [premaailabs.tech](https://github.com/nandhakumar-murugan/) |
 | 📊 **Kaggle Profile** | [kaggle.com/nandhakumar3108](https://www.kaggle.com/nandhakumar3108) |
 | 💼 **LinkedIn** | [linkedin.com/in/nandhakumar-murugan-807a80286](https://www.linkedin.com/in/nandhakumar-murugan-807a80286/) |
 | 🌐 **Google Developers** | [me.developers.google.com/u/117885705982936180625](https://me.developers.google.com/u/117885705982936180625) |
