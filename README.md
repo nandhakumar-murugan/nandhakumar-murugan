@@ -11,6 +11,21 @@
 
   <br/><br/>
 
+  <!-- 🏆 Google Open Source & Ambassador Spotlight Banner -->
+  <p align="center">
+    <a href="https://github.com/google-gemini/cookbook/pull/1352">
+      <img src="https://img.shields.io/badge/Google_Open_Source-Contributor_%7C_google--gemini%2Fcookbook_%231352-EA4335?style=for-the-badge&logo=google&logoColor=white" alt="Google Open Source Contributor" />
+    </a>
+    <a href="https://cla.developers.google.com/">
+      <img src="https://img.shields.io/badge/Google_Individual_CLA-Active_on_File-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google CLA Active" />
+    </a>
+    <a href="https://nandhakumar-murugan.github.io/google-ecosystem-atlas/">
+      <img src="https://img.shields.io/badge/Atlas_Live-10%2C263%2B_Google_Products-FBBC04?style=for-the-badge&logo=googlecloud&logoColor=black" alt="Atlas Live" />
+    </a>
+  </p>
+
+  <br/>
+
   <!-- ⚡ 2. Animated Typing Banner -->
   <a href="https://premaailabs.tech">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Google+Student+Ambassador+🌐;AI+%26+Fullstack+Developer+🚀;Native+Android+Developer+(Kotlin)+📱;Cyber+Security+Student+@+KG+KITE+🛡️;Building+Tech+for+Students+%26+Communities+🇮🇳&font=Fira+Code&size=22&center=true&width=750&height=45&color=A855F7&vCenter=true" alt="Typing Banner Animation" />
@@ -27,6 +42,8 @@
 
   <!-- 🌟 3. Social Badges Bar -->
   <p align="center">
+    <a href="https://cla.developers.google.com/"><img src="https://img.shields.io/badge/Google_CLA-Verified_%26_Signed-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google CLA" /></a>
+    <a href="https://github.com/google-gemini/cookbook/pull/1352"><img src="https://img.shields.io/badge/Google_Gemini_Cookbook-PR_%231352-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini Cookbook PR #1352" /></a>
     <a href="https://me.developers.google.com/u/117885705982936180625"><img src="https://img.shields.io/badge/Google_Developers-Verified_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers" /></a>
     <a href="https://premaailabs.tech/"><img src="https://img.shields.io/badge/Google_Gemini_AI-Prema_AI-8E44AD?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" /></a>
     <a href="https://www.kaggle.com/nandhakumar3108"><img src="https://img.shields.io/badge/Kaggle-nandhakumar3108-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
