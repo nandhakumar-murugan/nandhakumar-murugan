@@ -44,6 +44,7 @@
   <p align="center">
     <a href="https://cla.developers.google.com/"><img src="https://img.shields.io/badge/Google_CLA-Verified_%26_Signed-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google CLA" /></a>
     <a href="https://github.com/google-gemini/cookbook/pull/1352"><img src="https://img.shields.io/badge/Google_Gemini_Cookbook-PR_%231352-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini Cookbook PR #1352" /></a>
+    <a href="https://github.com/google/osv-scanner/pull/3031"><img src="https://img.shields.io/badge/Google_OSV--Scanner-PR_%233031-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google OSV-Scanner PR #3031" /></a>
     <a href="https://me.developers.google.com/u/117885705982936180625"><img src="https://img.shields.io/badge/Google_Developers-Verified_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers" /></a>
     <a href="https://www.kaggle.com/nandhakumar3108"><img src="https://img.shields.io/badge/Kaggle-nandhakumar3108-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
     <a href="https://playacademy.exceedlms.com/profiles/nandhakumarmurugan93dd82c1"><img src="https://img.shields.io/badge/Google_Play_Academy-Certified-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play Academy" /></a>
