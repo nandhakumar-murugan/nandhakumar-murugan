@@ -47,6 +47,7 @@
     <a href="https://me.developers.google.com/u/117885705982936180625"><img src="https://img.shields.io/badge/Google_Developers-Verified_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers" /></a>
     <a href="https://hack2skill.com/dashboard/user_public_profile/?userId=691618de39056a569388e725&utm_source=hack2skill&utm_medium=homepage"><img src="https://img.shields.io/badge/Hack2skill-Innovator_Profile-FF6B00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Hack2skill Profile" /></a>
     <a href="https://www.kaggle.com/nandhakumar3108"><img src="https://img.shields.io/badge/Kaggle-nandhakumar3108-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+    <a href="https://leetcode.com/u/6JW1iI3W5S/"><img src="https://img.shields.io/badge/LeetCode-6JW1iI3W5S-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
     <a href="https://playacademy.exceedlms.com/profiles/nandhakumarmurugan93dd82c1"><img src="https://img.shields.io/badge/Google_Play_Academy-Certified-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play Academy" /></a>
     <a href="https://www.linkedin.com/in/nandhakumar-murugan-807a80286/"><img src="https://img.shields.io/badge/LinkedIn-Nandhakumar_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:smnk2006@gmail.com"><img src="https://img.shields.io/badge/Email-smnk2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -294,6 +295,7 @@
 | ✍️ **Medium** | [@nandhakumarmurugan](https://medium.com/@nandhakumarmurugan) |
 | 🐦 **X (Twitter)** | [@Nandhakuma54212](https://x.com/Nandhakuma54212) |
 | ⚡ **Hack2skill Profile** | [hack2skill.com/user/@smnk2006_3971](https://hack2skill.com/dashboard/user_public_profile/?userId=691618de39056a569388e725&utm_source=hack2skill&utm_medium=homepage) |
+| 💻 **LeetCode Profile** | [leetcode.com/u/6JW1iI3W5S](https://leetcode.com/u/6JW1iI3W5S/) |
 | 🚀 **GUVI Profile** | [guvi.in/smnk200626379](https://www.guvi.in/smnk200626379) |
 | 🎓 **Google Play Academy** | [playacademy.exceedlms.com](https://playacademy.exceedlms.com/profiles/nandhakumarmurugan93dd82c1) |
 | 🐙 **GitHub** | [github.com/nandhakumar-murugan](https://github.com/nandhakumar-murugan) |
