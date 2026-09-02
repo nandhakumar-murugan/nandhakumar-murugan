@@ -22,6 +22,15 @@
     <a href="https://nandhakumar-murugan.github.io/google-ecosystem-atlas/">
       <img src="https://img.shields.io/badge/Atlas_Live-10%2C263%2B_Google_Products-FBBC04?style=for-the-badge&logo=googlecloud&logoColor=black" alt="Atlas Live" />
     </a>
+    <a href="https://doi.org/10.5281/zenodo.22259022">
+      <img src="https://img.shields.io/badge/Research_Paper-AgentShield_%7C_CERN_Zenodo_DOI-007EC6?style=for-the-badge&logo=doi&logoColor=white" alt="AgentShield Research Paper" />
+    </a>
+    <a href="https://pypi.org/project/gemini-antigravity-bridge/">
+      <img src="https://img.shields.io/badge/PyPI-gemini--antigravity--bridge_v1.0.0-3776AB?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI Package" />
+    </a>
+    <a href="https://glama.ai/mcp/servers/nandhakumar-murugan/gemini-antigravity-bridge">
+      <img src="https://img.shields.io/badge/Glama_MCP-Grade_A_Verified-37a169?style=for-the-badge&logo=docker&logoColor=white" alt="Glama Grade A" />
+    </a>
   </p>
 
   <br/>
@@ -88,10 +97,19 @@
 ## 🎓 Student Developer & Google Student Ambassador Journey
 
 - 🌟 **Google Student Ambassador (GSA):** Lead & Campus Representative at KGiSL Institute of Technology (KG KITE).
-- 🎓 **Academic Specialization:** B.E. Computer Science & Cyber Security Student (`24UCY129`) @ KG KITE, Coimbatore.
+- 🎓 **Academic Specialization:** B.E. Computer Science & Engineering (Cybersecurity) Student (`24UCY129`) @ KG KITE, Coimbatore.
+- 🔬 **Published AI Researcher:** Lead Author of *AgentShield Zero-Trust Multi-Agent Guardrails* (CERN Zenodo DOI: `10.5281/zenodo.22259022`).
 - 🤖 **Google Gemini AI & DeepMind Research:** Building planetary search tools, vernacular AI, and agentic workflows.
 - 📊 **Kaggle Contributor:** Data science datasets, notebooks, and AI model evaluations ([@nandhakumar3108](https://www.kaggle.com/nandhakumar3108)).
 - 💻 **Open Source Momentum:** **75+ Repositories** published covering Generative AI, Cloud Infrastructure, and Cyber Security.
+
+---
+
+## 📄 Published Academic Research & Preprints
+
+| Paper Title | Author | Department / Affiliation | Permanent DOI | Open-Access Repository |
+|---|---|---|:---:|:---:|
+| **AgentShield: A Zero-Trust Runtime Guardrail Architecture for Autonomous Multi-Agent AI Systems with Bidirectional Context Synchronization** | **Nandhakumar Murugan** (Sole Author) | Dept. of Computer Science & Engineering (Cybersecurity), KGiSL Institute of Technology (KiTE) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22259022.svg)](https://doi.org/10.5281/zenodo.22259022) | [Zenodo CERN Record](https://zenodo.org/records/22259022) |
 
 ---
 
