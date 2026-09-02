@@ -51,6 +51,7 @@
 
   <!-- 🌟 3. Social Badges Bar -->
   <p align="center">
+    <a href="https://scholar.google.com/citations?user=ZcxswZYAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Nandhakumar_Murugan-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
     <a href="https://cla.developers.google.com/"><img src="https://img.shields.io/badge/Google_CLA-Verified_%26_Signed-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google CLA" /></a>
     <a href="https://github.com/google-gemini/cookbook/pull/1352"><img src="https://img.shields.io/badge/Google_Gemini_Cookbook-PR_%231352-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini Cookbook PR #1352" /></a>
     <a href="https://me.developers.google.com/u/117885705982936180625"><img src="https://img.shields.io/badge/Google_Developers-Verified_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers" /></a>
