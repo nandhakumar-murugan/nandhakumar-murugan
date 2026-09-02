@@ -61,6 +61,7 @@
     <a href="https://playacademy.exceedlms.com/profiles/nandhakumarmurugan93dd82c1"><img src="https://img.shields.io/badge/Google_Play_Academy-Certified-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play Academy" /></a>
     <a href="https://www.linkedin.com/in/nandhakumar-murugan-807a80286/"><img src="https://img.shields.io/badge/LinkedIn-Nandhakumar_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:smnk2006@gmail.com"><img src="https://img.shields.io/badge/Email-smnk2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:24ucy129nandha@kgkite.ac.in"><img src="https://img.shields.io/badge/KiTE_Edu-24ucy129nandha%40kgkite.ac.in-1a73e8?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="KiTE Email" /></a>
     <a href="https://x.com/Nandhakuma54212"><img src="https://img.shields.io/badge/X-@Nandhakuma54212-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
     <a href="https://medium.com/@nandhakumarmurugan"><img src="https://img.shields.io/badge/Medium-@nandhakumarmurugan-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   </p>
@@ -98,7 +99,7 @@
 ## 🎓 Student Developer & Google Student Ambassador Journey
 
 - 🌟 **Google Student Ambassador (GSA):** Lead & Campus Representative at KGiSL Institute of Technology (KG KITE).
-- 🎓 **Academic Specialization:** B.E. Computer Science & Engineering (Cybersecurity) Student (`24UCY129`) @ KG KITE, Coimbatore.
+- 🎓 **Academic Specialization:** B.E. Computer Science & Engineering (Cybersecurity) Student (`24UCY129`, Class of 2024–2028, Valid through May 31, 2028) @ KG KITE, Coimbatore.
 - 🔬 **Published AI Researcher:** Lead Author of *AgentShield Zero-Trust Multi-Agent Guardrails* (CERN Zenodo DOI: `10.5281/zenodo.22259022`).
 - 🤖 **Google Gemini AI & DeepMind Research:** Building planetary search tools, vernacular AI, and agentic workflows.
 - 📊 **Kaggle Contributor:** Data science datasets, notebooks, and AI model evaluations ([@nandhakumar3108](https://www.kaggle.com/nandhakumar3108)).
