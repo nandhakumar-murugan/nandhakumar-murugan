@@ -31,6 +31,9 @@
     <a href="https://glama.ai/mcp/servers/nandhakumar-murugan/gemini-antigravity-bridge">
       <img src="https://img.shields.io/badge/Glama_MCP-Grade_A_Verified-37a169?style=for-the-badge&logo=docker&logoColor=white" alt="Glama Grade A" />
     </a>
+    <a href="https://discuss.ai.google.dev/t/show-tell-gemini-antigravity-bridge-bidirectional-mcp-agent-orchestration-between-gemini-spark-deepmind-antigravity/180640/1">
+      <img src="https://img.shields.io/badge/Google_AI_Forum-Approved_Showcase-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Forum Approved Showcase" />
+    </a>
   </p>
 
   <br/>
