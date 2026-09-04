@@ -34,6 +34,9 @@
     <a href="https://discuss.ai.google.dev/t/show-tell-gemini-antigravity-bridge-bidirectional-mcp-agent-orchestration-between-gemini-spark-deepmind-antigravity/180640/1">
       <img src="https://img.shields.io/badge/Google_AI_Forum-Approved_Showcase-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Forum Approved Showcase" />
     </a>
+    <a href="https://github.com/nandhakumar-murugan/KGISL-CAMPUS-SOLVERS">
+      <img src="https://img.shields.io/badge/Campus_Initiative-KGISL--CAMPUS--SOLVERS-EA4335?style=for-the-badge&logo=github&logoColor=white" alt="KGISL Campus Solvers" />
+    </a>
   </p>
 
   <br/>
