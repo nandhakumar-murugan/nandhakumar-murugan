@@ -270,7 +270,17 @@
 
 ---
 
-## 🏆 Achievements & 3D Trophies
+## 🏆 Official GitHub Achievements & 3D Trophies
+
+<p align="center">
+  <a href="https://github.com/nandhakumar-murugan?tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85" alt="Pull Shark" title="Pull Shark" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="85" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85" alt="Quickdraw" title="Quickdraw" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="85" alt="YOLO" title="YOLO" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="85" alt="Starstruck" title="Starstruck" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=nandhakumar-murugan&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="nandhakumar-murugan Trophies" />
