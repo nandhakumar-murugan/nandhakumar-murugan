@@ -65,7 +65,7 @@
     <a href="https://www.kaggle.com/nandhakumar3108"><img src="https://img.shields.io/badge/Kaggle-nandhakumar3108-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
     <a href="https://leetcode.com/u/6JW1iI3W5S/"><img src="https://img.shields.io/badge/LeetCode-6JW1iI3W5S-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
     <a href="https://playacademy.exceedlms.com/profiles/nandhakumarmurugan93dd82c1"><img src="https://img.shields.io/badge/Google_Play_Academy-Certified-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play Academy" /></a>
-    <a href="https://www.linkedin.com/in/nandhakumar-murugan-807a80286/"><img src="https://img.shields.io/badge/LinkedIn-Nandhakumar_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/nandhakumar-murugan/"><img src="https://img.shields.io/badge/LinkedIn-Nandhakumar_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:smnk2006@gmail.com"><img src="https://img.shields.io/badge/Email-smnk2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="mailto:24ucy129nandha@kgkite.ac.in"><img src="https://img.shields.io/badge/KiTE_Edu-24ucy129nandha%40kgkite.ac.in-1a73e8?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="KiTE Email" /></a>
     <a href="https://x.com/Nandhakuma54212"><img src="https://img.shields.io/badge/X-@Nandhakuma54212-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -322,7 +322,7 @@
 |--------------------|---------------------|
 | 🌐 **Official Website** | [premaailabs.tech](https://github.com/nandhakumar-murugan/) |
 | 📊 **Kaggle Profile** | [kaggle.com/nandhakumar3108](https://www.kaggle.com/nandhakumar3108) |
-| 💼 **LinkedIn** | [linkedin.com/in/nandhakumar-murugan-807a80286](https://www.linkedin.com/in/nandhakumar-murugan-807a80286/) |
+| 💼 **LinkedIn** | [linkedin.com/in/nandhakumar-murugan](https://www.linkedin.com/in/nandhakumar-murugan/) |
 | 🌐 **Google Developers** | [me.developers.google.com/u/117885705982936180625](https://me.developers.google.com/u/117885705982936180625) |
 | 📧 **Personal Email** | [smnk2006@gmail.com](mailto:smnk2006@gmail.com) |
 | 📧 **Institutional Email** | [24ucy129nandha@kgkite.ac.in](mailto:24ucy129nandha@kgkite.ac.in) |
