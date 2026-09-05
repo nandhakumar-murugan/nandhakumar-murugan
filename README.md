@@ -247,6 +247,14 @@
 
 ---
 
+### 📌 [Campus Notice Copilot for WhatsApp](https://github.com/nandhakumar-murugan/campus-notice-copilot-extension)
+> **Real-Time WhatsApp Web College Notice & Deadline Extractor**  
+> Production Chrome Extension (Manifest v3) auto-extracting college circulars, exam dates, CIA test timetables, and homework deadlines from WhatsApp Web into an organized floating drawer with 1-click Google Calendar sync.  
+> **Tech Stack:** `JavaScript` • `Chrome Extension Manifest v3` • `MutationObserver` • `Google Calendar API` • `Storage API`  
+> **Repository:** [nandhakumar-murugan/campus-notice-copilot-extension](https://github.com/nandhakumar-murugan/campus-notice-copilot-extension)
+
+---
+
 ### 🎓 [Campus AI Copilot Extension](https://github.com/nandhakumar-murugan/campus-ai-copilot-extension)
 > **Intelligent Study & Research Browser Companion**  
 > Chrome extension providing AI-assisted learning, assignment helpers, real-time research assistance, and smart text summaries directly in the browser for students.  
