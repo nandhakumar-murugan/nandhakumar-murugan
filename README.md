@@ -26,7 +26,7 @@
       <img src="https://img.shields.io/badge/Research_Paper-AgentShield_%7C_CERN_Zenodo_DOI-007EC6?style=for-the-badge&logo=doi&logoColor=white" alt="AgentShield Research Paper" />
     </a>
     <a href="https://pypi.org/project/gemini-antigravity-bridge/">
-      <img src="https://img.shields.io/badge/PyPI-gemini--antigravity--bridge_v1.0.0-3776AB?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI Package" />
+      <img src="https://img.shields.io/badge/PyPI-gemini--antigravity--bridge_v1.4.0-3776AB?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI Package" />
     </a>
     <a href="https://glama.ai/mcp/servers/nandhakumar-murugan/gemini-antigravity-bridge">
       <img src="https://img.shields.io/badge/Glama_MCP-Grade_A_Verified-37a169?style=for-the-badge&logo=docker&logoColor=white" alt="Glama Grade A" />
